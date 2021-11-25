@@ -1,0 +1,3090 @@
+,Q1,Q2,Q3,Q4,Q5,Q6,Q25
+0,24,Man,Japan,1,Software Engineer,4,2564
+1,55,Man,USA,4,Software Engineer,20,17801
+2,24,Man,China,2,Data Analyst,0.5,741
+3,30,Woman,USA,4,Data Scientist,5,100644
+4,43,Man,USA,3,Research Scientist,0.5,77390
+5,30,Man,Japan,4,Data Scientist,1,43236
+6,34,Prefer not to say,China,0,Data Analyst,0.5,185
+7,52,Man,USA,4,Data Engineer,28,377002
+8,23,Man,China,4,Business Analyst,0.5,21862
+9,37,Man,USA,5,Research Scientist,18,238041
+10,26,Man,USA,4,Data Scientist,1,70006
+11,59,Man,USA,3,Software Engineer,28,129793
+12,30,Man,USA,4,Business Analyst,2,66991
+13,56,Man,USA,3,Other,3,73132
+14,44,Woman,USA,4,Other,10,29758
+15,55,Man,USA,4,Data Scientist,20,106196
+16,70,Man,USA,4,Other,5,253192
+17,70,Woman,USA,4,Data Analyst,21,103628
+18,68,Man,USA,4,Product Manager,26,81174
+19,31,Man,USA,4,Data Scientist,20,279268
+20,33,Man,USA,4,Business Analyst,0,100843
+21,40,Man,Japan,3,Business Analyst,0,71928
+22,55,Man,USA,4,Data Scientist,23,247875
+23,33,Man,USA,2,Other,0.5,49954
+24,26,Man,Japan,1,Machine Learning Engineer,6,63134
+25,22,Man,China,4,Data Scientist,2,255
+26,51,Man,Japan,4,Software Engineer,22,135071
+27,22,Man,USA,4,Other,5,75281
+28,60,Man,USA,4,Software Engineer,25,121634
+29,30,Man,China,4,Machine Learning Engineer,3,3061
+30,24,Man,South Korea,3,Other,2,3292
+31,51,Man,USA,3,Software Engineer,29,251985
+32,39,Woman,USA,4,Data Scientist,11,165162
+33,34,Woman,USA,4,Data Engineer,0,96
+34,23,Man,China,3,Data Analyst,3,19095
+35,42,Man,Japan,4,Other,20,104254
+36,43,Man,Japan,3,Data Scientist,0.5,1543
+37,24,Man,China,2,Machine Learning Engineer,3,697
+38,31,Man,USA,4,Data Scientist,8,175207
+39,36,Man,USA,3,Business Analyst,6,71114
+40,52,Man,South Korea,4,Program/Project Manager,22,60004
+41,45,Man,Japan,4,Other,18,61935
+42,35,Man,USA,4,Data Scientist,15,102560
+43,53,Woman,USA,5,Data Scientist,3,92386
+44,50,Man,USA,3,Product Manager,28,178071
+45,21,Woman,USA,4,Other,10,338
+46,34,Woman,USA,3,Data Analyst,0.5,28425
+47,32,Man,USA,3,Program/Project Manager,11,183373
+48,33,Man,USA,3,Program/Project Manager,1,105693
+49,28,Man,USA,4,Data Analyst,0.5,145032
+50,18,Man,Japan,3,Program/Project Manager,1,723
+51,37,Man,USA,4,Data Analyst,18,146724
+52,18,Man,China,4,Business Analyst,10,422
+53,50,Man,Japan,0,Other,0.5,76817
+54,28,Woman,Japan,4,Other,5,702
+55,39,Man,South Korea,3,Software Engineer,20,52432
+56,54,Woman,USA,5,Data Scientist,16,77674
+57,32,Man,USA,3,Data Scientist,9,126524
+58,47,Man,USA,2,Data Engineer,5,113348
+59,67,Man,USA,3,Other,1,182317
+60,49,Man,South Korea,5,Product Manager,0.5,88695
+61,25,Man,USA,5,Research Scientist,5,35040
+62,39,Woman,USA,4,Data Scientist,4,148708
+63,50,Man,South Korea,4,Machine Learning Engineer,17,10563
+64,38,Man,China,3,Data Analyst,0.5,27375
+65,39,Man,USA,5,Software Engineer,17,290085
+66,58,Man,USA,5,Data Engineer,24,189894
+67,40,Man,Japan,3,Other,1,83344
+68,36,Man,USA,5,Other,13,82138
+69,38,Man,USA,4,Software Engineer,0.5,58659
+70,34,Man,Japan,2,Business Analyst,0.5,753
+71,27,Man,Japan,4,Machine Learning Engineer,9,4639
+72,52,Man,USA,4,Data Scientist,8,82032
+73,40,Man,Japan,5,Research Scientist,11,78868
+74,21,Woman,China,0,Data Analyst,2,739
+75,37,Woman,USA,4,Other,0.5,19946
+76,37,Man,China,4,Business Analyst,3,388
+77,33,Man,USA,4,Data Scientist,18,212101
+78,57,Man,USA,4,Other,0,323907
+79,43,Woman,USA,3,Other,0,14582
+80,39,Woman,USA,5,Research Scientist,3,66765
+81,63,Man,USA,3,Program/Project Manager,23,63426
+82,23,Man,USA,3,Data Analyst,3,109473
+83,48,Man,Japan,3,Program/Project Manager,15,70634
+84,41,Prefer not to say,Japan,5,Machine Learning Engineer,28,47467
+85,38,Man,USA,5,Data Scientist,0.5,355
+86,42,Woman,USA,3,Software Engineer,12,88926
+87,62,Man,USA,4,Machine Learning Engineer,22,125936
+88,54,Man,USA,5,Data Scientist,8,113518
+89,53,Man,USA,2,DBA/Database Engineer,21,188682
+90,41,Man,Japan,4,Program/Project Manager,12,81663
+91,52,Man,USA,3,Data Engineer,27,499679
+92,46,Prefer not to say,USA,5,Data Scientist,28,176960
+93,44,Man,USA,4,Machine Learning Engineer,9,180958
+94,58,Man,USA,4,Data Scientist,21,972428
+95,47,Man,USA,4,Other,24,255616
+96,25,Woman,USA,5,Data Scientist,1,4860
+97,38,Man,China,4,Program/Project Manager,20,7979
+98,34,Man,China,2,Data Analyst,1,227
+99,26,Man,South Korea,3,Data Analyst,0.5,39898
+100,23,Man,China,3,Software Engineer,4,14530
+101,65,Man,Japan,2,Software Engineer,20,2476
+102,32,Man,Japan,4,Software Engineer,14,480
+103,26,Man,South Korea,3,Machine Learning Engineer,3,2128
+104,28,Woman,Japan,4,Software Engineer,2,40792
+105,30,Woman,South Korea,4,Product Manager,1,2919
+106,36,Man,USA,3,Other,0.5,54959
+107,40,Man,Japan,3,Other,1,125804
+108,39,Man,Japan,4,Other,0.5,50776
+109,34,Man,USA,4,Other,3,92374
+110,28,Man,South Korea,3,Data Engineer,1,189
+111,35,Man,USA,3,Product Manager,5,190528
+112,37,Man,USA,5,Research Scientist,5,284499
+113,35,Man,USA,5,Machine Learning Engineer,8,219877
+114,43,Man,USA,4,Other,5,110619
+115,26,Man,USA,4,Data Scientist,4,80280
+116,25,Man,Japan,1,Business Analyst,1,751
+117,47,Man,USA,3,Other,28,225549
+118,35,Man,Japan,4,Software Engineer,4,2182
+119,32,Woman,South Korea,3,Research Scientist,4,44234
+120,43,Man,South Korea,5,Machine Learning Engineer,4,114382
+121,34,Man,China,4,Data Analyst,5,82602
+122,33,Woman,South Korea,4,Data Analyst,0.5,1182
+123,31,Man,USA,4,Data Scientist,3,89168
+124,29,Man,China,4,Data Scientist,3,1050
+125,25,Man,USA,5,Data Scientist,0.5,69010
+126,64,Man,USA,3,Other,29,118952
+127,29,Man,Japan,4,Product Manager,3,5096
+128,23,Man,Japan,4,Research Scientist,3,38552
+129,50,Man,Japan,3,Product Manager,5,65485
+130,53,Man,USA,4,Data Scientist,7,123456
+131,30,Woman,South Korea,4,Business Analyst,0.5,4083
+132,52,Man,USA,4,Research Scientist,19,494696
+133,29,Man,China,4,Data Analyst,3,13755
+134,32,Man,South Korea,5,Research Scientist,9,16918
+135,29,Woman,USA,3,Other,0.5,12641
+136,40,Man,South Korea,5,Data Scientist,20,10651
+137,54,Man,South Korea,5,Business Analyst,9,56803
+138,69,Man,USA,4,Business Analyst,0,113125
+139,28,Man,South Korea,4,Data Scientist,2,2755
+140,29,Woman,USA,4,Software Engineer,2,488
+141,32,Woman,USA,4,Business Analyst,0,60003
+142,56,Man,USA,3,Other,2,30858
+143,57,Man,USA,2,Software Engineer,24,139920
+144,58,Man,USA,4,Other,0.5,41708
+145,42,Woman,USA,5,Research Scientist,19,39175
+146,52,Man,Japan,3,Other,3,77864
+147,51,Woman,South Korea,4,Product Manager,0.5,4445
+148,39,Man,Japan,4,Software Engineer,20,13996
+149,19,Man,China,2,Data Analyst,0.5,1074
+150,33,Man,China,3,Product Manager,2,202
+151,31,Man,South Korea,3,Other,0.5,65192
+152,45,Man,USA,5,Data Scientist,18,169927
+153,38,Man,USA,4,Business Analyst,14,877
+154,57,Man,USA,5,Research Scientist,12,230102
+155,34,Man,USA,3,Data Scientist,8,243636
+156,66,Prefer not to say,USA,4,Data Analyst,0,107652
+157,47,Man,Japan,3,Other,27,122442
+158,68,Man,Japan,3,Program/Project Manager,28,44929
+159,31,Man,China,4,Business Analyst,4,36833
+160,27,Man,USA,3,Software Engineer,8,134031
+161,59,Man,Japan,4,Other,4,77123
+162,37,Man,USA,4,Other,8,79206
+163,33,Man,USA,3,Software Engineer,2,86402
+164,44,Man,China,4,Product Manager,12,3963
+165,29,Man,Japan,4,Data Scientist,2,52730
+166,26,Man,Japan,4,Software Engineer,5,44764
+167,45,Man,Japan,4,Software Engineer,23,78212
+168,27,Woman,South Korea,2,Data Scientist,0.5,2612
+169,67,Man,USA,5,Statistician,22,109200
+170,34,Man,South Korea,2,Data Analyst,3,3975
+171,42,Man,USA,4,Data Scientist,19,427951
+172,32,Man,USA,5,Research Scientist,4,102262
+173,45,Woman,USA,4,Statistician,26,222926
+174,24,Man,China,2,Data Analyst,1,1855
+175,64,Man,Japan,5,Other,15,157724
+176,64,Man,USA,4,Business Analyst,21,172872
+177,25,Man,Japan,4,Data Scientist,9,87069
+178,52,Man,USA,4,Machine Learning Engineer,23,234783
+179,51,Man,USA,3,Program/Project Manager,19,195616
+180,25,Man,USA,4,Software Engineer,9,615
+181,26,Man,USA,5,Machine Learning Engineer,3,1713
+182,26,Man,USA,5,Business Analyst,29,2773
+183,27,Man,Japan,0,Data Scientist,1,58063
+184,39,Nonbinary,USA,4,Machine Learning Engineer,6,815
+185,53,Woman,USA,4,Data Analyst,27,91099
+186,42,Woman,USA,3,Program/Project Manager,0,62795
+187,45,Man,USA,4,Other,0,64589
+188,48,Woman,USA,5,Other,0,119441
+189,51,Man,USA,3,Data Scientist,28,234744
+190,38,Woman,USA,4,Other,7,39990
+191,27,Man,USA,3,Data Analyst,1,100626
+192,50,Man,USA,4,Data Scientist,4,295521
+193,43,Man,USA,4,Data Scientist,3,175538
+194,51,Man,Japan,4,Data Analyst,22,109125
+195,28,Man,Japan,4,Business Analyst,9,4940
+196,44,Man,USA,5,Research Scientist,19,72043
+197,32,Man,Japan,4,Data Scientist,5,73163
+198,29,Woman,USA,3,Data Scientist,5,97739
+199,33,Man,USA,4,Machine Learning Engineer,13,126310
+200,48,Woman,South Korea,5,Data Scientist,8,5954
+201,26,Man,USA,2,Software Engineer,2,46023
+202,40,Man,Japan,3,Other,0.5,138216
+203,25,Man,USA,4,Data Scientist,0.5,91750
+204,27,Man,South Korea,3,Business Analyst,4,56288
+205,37,Man,USA,5,Software Engineer,28,465362
+206,36,Man,USA,4,Data Engineer,22,163526
+207,39,Man,Japan,5,Research Scientist,2,2494
+208,53,Woman,USA,4,Product Manager,10,175993
+209,29,Man,Japan,4,Data Engineer,3,367
+210,47,Man,Japan,1,Software Engineer,28,4639
+211,55,Man,USA,4,Data Scientist,25,161241
+212,27,Man,Japan,3,Data Analyst,1,34059
+213,55,Man,USA,5,Data Scientist,27,1086633
+214,57,Man,USA,2,Data Engineer,24,98074
+215,31,Man,USA,5,Research Scientist,8,969
+216,68,Man,USA,4,Data Analyst,16,32639
+217,20,Man,China,4,Data Engineer,0,208
+218,31,Nonbinary,USA,5,Machine Learning Engineer,1,86479
+219,36,Man,USA,4,Program/Project Manager,19,76094
+220,58,Man,Japan,5,Other,5,188902
+221,57,Man,Japan,5,Research Scientist,27,99555
+222,34,Man,USA,4,Machine Learning Engineer,5,635
+223,34,Man,China,4,Data Analyst,9,80436
+224,20,Man,Japan,2,Data Analyst,0,856
+225,25,Man,China,4,Data Analyst,1,67674
+226,35,Man,South Korea,2,Other,19,86545
+227,35,Man,Japan,4,Data Scientist,9,1072098
+228,30,Woman,Japan,3,Machine Learning Engineer,4,45539
+229,44,Man,USA,3,Other,16,357184
+230,26,Man,China,4,Machine Learning Engineer,2,40922
+231,57,Man,USA,3,Program/Project Manager,25,124751
+232,60,Man,Japan,3,Program/Project Manager,24,26228
+233,55,Man,USA,5,Data Scientist,24,129069
+234,50,Man,Japan,3,Program/Project Manager,0.5,124603
+235,27,Woman,USA,3,Software Engineer,3,76002
+236,24,Woman,USA,3,Data Analyst,0.5,58160
+237,35,Man,USA,4,Research Scientist,5,86923
+238,32,Man,USA,3,Software Engineer,18,118882
+239,59,Man,Japan,3,Data Engineer,3,5618
+240,57,Woman,USA,4,Other,5,152900
+241,58,Woman,USA,4,Data Analyst,8,105885
+242,25,Man,Japan,4,Machine Learning Engineer,4,7006
+243,35,Man,USA,4,Data Scientist,12,187112
+244,30,Man,USA,3,Data Analyst,0.5,64810
+245,37,Man,USA,4,Software Engineer,0.5,101829
+246,31,Man,USA,4,Data Scientist,16,200181
+247,42,Man,USA,4,Other,5,165184
+248,50,Man,USA,4,Research Scientist,27,278571
+249,65,Man,USA,4,Software Engineer,24,146083
+250,28,Man,China,4,Data Analyst,4,78140
+251,51,Man,USA,4,Business Analyst,0.5,93886
+252,69,Man,USA,3,Research Scientist,26,135235
+253,55,Man,Japan,4,Other,0.5,115888
+254,26,Woman,China,5,Research Scientist,2,955
+255,38,Man,China,4,Machine Learning Engineer,7,57658
+256,42,Man,USA,5,Data Scientist,20,171849
+257,28,Man,USA,3,Software Engineer,3,108727
+258,19,Man,Japan,4,Data Scientist,0.5,134
+259,32,Man,USA,5,Research Scientist,6,54500
+260,34,Man,Japan,3,Business Analyst,0,26326
+261,26,Man,South Korea,5,Software Engineer,3,54201
+262,41,Man,USA,4,Data Scientist,12,89402
+263,35,Man,Japan,4,Product Manager,0,1994
+264,53,Man,USA,4,Research Scientist,7,133761
+265,24,Man,USA,3,Research Scientist,5,23475
+266,60,Woman,USA,3,Software Engineer,20,691
+267,24,Man,USA,4,Other,4,58247
+268,70,Man,USA,5,Other,5,23
+269,43,Woman,USA,4,Data Analyst,2,103274
+270,33,Man,USA,3,Data Analyst,0,53962
+271,37,Woman,USA,5,Machine Learning Engineer,13,621251
+272,30,Man,USA,4,Machine Learning Engineer,11,223290
+273,49,Man,USA,3,DBA/Database Engineer,7,147545
+274,49,Man,Japan,0,Program/Project Manager,9,102422
+275,31,Nonbinary,USA,5,Research Scientist,4,185143
+276,25,Man,Japan,5,Research Scientist,5,24585
+277,56,Man,Japan,3,Machine Learning Engineer,6,4320
+278,34,Man,Japan,4,Business Analyst,0.5,68618
+279,30,Man,China,3,Software Engineer,4,27360
+280,66,Man,USA,4,Software Engineer,25,151901
+281,24,Woman,China,4,Machine Learning Engineer,3,313
+282,30,Man,USA,2,Data Analyst,2,77872
+283,67,Man,USA,5,Data Scientist,27,113703
+284,62,Man,USA,5,Research Scientist,25,190713
+285,52,Man,Japan,3,Other,2,86638
+286,32,Man,USA,3,Data Analyst,3,87698
+287,59,Man,USA,3,Program/Project Manager,0.5,97707
+288,30,Woman,USA,4,Data Scientist,7,232611
+289,47,Woman,USA,4,Program/Project Manager,23,177833
+290,25,Woman,USA,1,Other,0,23340
+291,39,Woman,South Korea,4,Data Engineer,10,12445
+292,22,Woman,China,3,Data Analyst,0.5,1572
+293,23,Man,USA,3,Software Engineer,10,100294
+294,22,Prefer not to say,China,4,Machine Learning Engineer,0.5,2402
+295,47,Woman,USA,4,Data Scientist,3,170136
+296,25,Man,USA,4,Data Analyst,8,76639
+297,23,Man,USA,4,Machine Learning Engineer,4,7561
+298,60,Man,USA,2,Product Manager,21,281648
+299,31,Man,USA,3,Data Analyst,0.5,44799
+300,36,Woman,USA,4,Other,13,120942
+301,33,Man,China,4,Software Engineer,9,8648
+302,38,Man,USA,4,Data Scientist,2,119781
+303,49,Man,USA,5,Machine Learning Engineer,20,219928
+304,55,Man,USA,3,Software Engineer,12,121884
+305,39,Man,China,5,Data Scientist,3,29363
+306,34,Man,Japan,4,Software Engineer,8,74483
+307,57,Man,Japan,3,Software Engineer,10,71337
+308,33,Man,USA,5,Data Scientist,3,173400
+309,22,Man,Japan,3,Data Scientist,3,56095
+310,56,Man,USA,4,Business Analyst,0.5,101739
+311,41,Woman,USA,5,Research Scientist,17,300750
+312,35,Man,USA,3,Data Scientist,5,141076
+313,39,Woman,USA,2,Other,10,21308
+314,66,Man,USA,4,Program/Project Manager,17,155568
+315,69,Man,USA,4,Software Engineer,16,176333
+316,50,Man,USA,4,Data Scientist,24,231660
+317,29,Woman,USA,4,Data Analyst,0.5,15475
+318,34,Man,China,4,Machine Learning Engineer,17,172296
+319,24,Man,China,4,Machine Learning Engineer,2,361
+320,22,Man,China,3,Software Engineer,4,18547
+321,41,Man,USA,5,Data Scientist,10,81097
+322,28,Man,USA,5,Research Scientist,9,33493
+323,33,Man,USA,4,Statistician,9,728
+324,28,Woman,USA,4,Program/Project Manager,10,114561
+325,29,Man,China,3,Machine Learning Engineer,2,181183
+326,25,Man,USA,4,Research Scientist,9,700
+327,23,Man,USA,3,Data Engineer,4,29777
+328,33,Man,USA,4,Data Analyst,0.5,9035
+329,20,Man,USA,3,Data Scientist,1,240
+330,53,Woman,USA,4,Data Engineer,6,386
+331,68,Man,USA,3,Data Analyst,0.5,19358
+332,38,Man,South Korea,4,Software Engineer,24,91597
+333,67,Man,USA,5,Data Scientist,23,173372
+334,24,Woman,South Korea,0,Data Analyst,0.5,292
+335,37,Man,Japan,4,Data Engineer,20,79424
+336,39,Man,USA,4,Business Analyst,0,49536
+337,49,Man,Japan,3,Software Engineer,22,9856
+338,41,Woman,China,4,Program/Project Manager,5,22951
+339,31,Man,Japan,5,Other,10,67331
+340,22,Woman,USA,3,Program/Project Manager,2,77024
+341,49,Man,South Korea,5,Data Engineer,22,25075
+342,50,Man,USA,4,Product Manager,0.5,259672
+343,37,Man,USA,5,Program/Project Manager,0.5,70926
+344,24,Man,China,4,Software Engineer,7,59182
+345,34,Man,Japan,3,Machine Learning Engineer,3,7565
+346,38,Man,China,4,Software Engineer,8,50979
+347,35,Man,Japan,3,Product Manager,3,330
+348,28,Man,USA,3,Program/Project Manager,9,53202
+349,42,Woman,USA,0,DBA/Database Engineer,2,27
+350,46,Man,USA,4,Product Manager,17,244791
+351,57,Man,Japan,3,Software Engineer,27,3119
+352,23,Man,USA,3,Data Analyst,6,42031
+353,67,Man,Japan,3,Machine Learning Engineer,5,274
+354,18,Man,China,2,Machine Learning Engineer,1,575
+355,52,Man,USA,4,Software Engineer,20,148801
+356,31,Man,China,4,Machine Learning Engineer,10,3909
+357,28,Woman,USA,4,Program/Project Manager,3,75915
+358,38,Man,USA,3,Software Engineer,20,278115
+359,55,Man,USA,5,Business Analyst,2,96109
+360,48,Man,Japan,5,Research Scientist,0.5,78161
+361,68,Man,USA,4,Software Engineer,24,92500
+362,60,Nonbinary,USA,4,Machine Learning Engineer,23,109826
+363,36,Man,USA,5,Data Scientist,7,188150
+364,37,Man,USA,5,Data Scientist,18,265723
+365,70,Man,USA,4,Other,21,154
+366,34,Man,USA,4,Data Scientist,5,75481
+367,46,Woman,USA,3,Data Engineer,5,120
+368,22,Man,USA,4,Data Scientist,3,114497
+369,42,Man,Japan,3,Business Analyst,3,122446
+370,70,Man,USA,4,Program/Project Manager,20,42553
+371,32,Man,China,5,Data Scientist,5,23309
+372,33,Man,USA,4,Other,0.5,120065
+373,53,Man,USA,4,Research Scientist,22,232300
+374,39,Man,USA,2,Other,0,48924
+375,41,Man,USA,4,Data Analyst,4,69064
+376,24,Prefer not to say,China,4,Data Analyst,0.5,85
+377,55,Man,USA,3,DBA/Database Engineer,23,156409
+378,24,Man,China,4,Machine Learning Engineer,5,4053
+379,53,Man,USA,2,Other,0.5,46704
+380,31,Man,China,4,Machine Learning Engineer,6,113386
+381,30,Woman,USA,4,Data Analyst,0.5,825
+382,38,Man,USA,5,Data Scientist,18,182651
+383,29,Man,China,4,Machine Learning Engineer,2,38888
+384,53,Man,USA,3,Data Scientist,19,244068
+385,30,Man,USA,5,Data Analyst,1,57401
+386,24,Man,China,3,Software Engineer,3,785
+387,40,Man,USA,3,Product Manager,22,405786
+388,59,Man,USA,3,Software Engineer,27,193153
+389,41,Man,USA,2,Machine Learning Engineer,20,1045068
+390,54,Man,USA,5,Data Scientist,25,174359
+391,36,Man,USA,4,Data Scientist,8,193038
+392,27,Man,Japan,3,Software Engineer,3,45503
+393,24,Man,USA,4,Data Analyst,0.5,58334
+394,28,Nonbinary,USA,3,Research Scientist,3,27286
+395,39,Man,USA,4,Software Engineer,8,88557
+396,26,Man,Japan,4,Software Engineer,4,49260
+397,25,Woman,USA,3,Other,8,23059
+398,36,Man,China,4,Software Engineer,27,144855
+399,33,Man,USA,4,Other,16,108565
+400,47,Woman,Japan,5,Other,0.5,158002
+401,46,Man,USA,3,Data Analyst,9,45842
+402,41,Man,USA,5,Data Scientist,19,129224
+403,57,Nonbinary,Japan,4,Software Engineer,28,50497
+404,18,Nonbinary,USA,3,Machine Learning Engineer,3,39361
+405,34,Man,Japan,4,Research Scientist,2,48775
+406,31,Man,USA,2,Business Analyst,0.5,33282
+407,29,Man,China,3,Software Engineer,5,805
+408,54,Man,USA,3,Software Engineer,22,126976
+409,23,Man,USA,5,Research Scientist,20,689
+410,47,Man,Japan,3,Other,0.5,116091
+411,65,Man,USA,4,Other,20,18918
+412,22,Man,China,4,Machine Learning Engineer,4,194
+413,23,Woman,USA,4,Data Engineer,4,62632
+414,31,Prefer to self-describe,USA,4,Other,0.5,34761
+415,27,Man,Japan,2,Software Engineer,3,214
+416,48,Man,USA,3,Data Analyst,0.5,87097
+417,30,Man,Japan,5,Research Scientist,0.5,79014
+418,22,Man,USA,3,Data Scientist,4,97829
+419,26,Man,USA,3,Data Scientist,3,123240
+420,27,Man,USA,3,Data Analyst,3,46121
+421,24,Man,USA,3,Business Analyst,0,65682
+422,31,Man,Japan,3,Machine Learning Engineer,15,86885
+423,40,Man,USA,4,Machine Learning Engineer,3,198768
+424,26,Man,USA,3,Data Analyst,2,95553
+425,30,Man,USA,4,Machine Learning Engineer,7,100667
+426,43,Man,Japan,4,Research Scientist,20,80621
+427,47,Man,Japan,2,Research Scientist,0.5,47260
+428,68,Man,USA,3,Other,0,290294
+429,31,Man,USA,3,Business Analyst,1,21429
+430,41,Man,USA,4,Data Scientist,10,290658
+431,32,Man,Japan,3,Data Scientist,3,60172
+432,46,Man,USA,4,Other,7,2408
+433,56,Man,USA,5,Other,20,78562
+434,26,Man,Japan,4,Product Manager,0.5,32891
+435,53,Man,USA,4,Other,0,57828
+436,41,Woman,USA,5,Other,17,107400
+437,27,Man,Japan,4,Data Scientist,3,2026
+438,22,Man,China,4,Data Scientist,3,24023
+439,38,Woman,USA,5,Other,8,102040
+440,31,Man,China,4,Data Analyst,4,39195
+441,50,Man,USA,5,Research Scientist,21,391707
+442,29,Woman,USA,4,Other,0,56129
+443,27,Man,China,3,Data Analyst,2,3953
+444,31,Man,China,4,Machine Learning Engineer,9,41445
+445,27,Woman,China,4,Machine Learning Engineer,1,36168
+446,41,Man,Japan,4,Data Scientist,5,5367
+447,38,Man,USA,3,Data Scientist,10,153445
+448,23,Man,China,4,Data Scientist,5,598
+449,51,Woman,Japan,4,Business Analyst,2,243
+450,64,Man,USA,4,DBA/Database Engineer,26,132869
+451,25,Man,USA,4,Research Scientist,2,28732
+452,39,Man,USA,3,Other,0.5,82719
+453,37,Man,USA,4,Statistician,0.5,120994
+454,63,Man,USA,3,DBA/Database Engineer,14,173691
+455,57,Man,Japan,3,Other,10,111107
+456,67,Man,USA,2,Data Analyst,23,98395
+457,34,Man,China,3,Machine Learning Engineer,6,71863
+458,38,Woman,USA,4,Data Analyst,24,77025
+459,55,Man,Japan,4,Other,0,9515
+460,48,Man,USA,2,Software Engineer,23,244617
+461,31,Woman,USA,4,Business Analyst,0.5,648
+462,31,Woman,China,3,Business Analyst,9,37056
+463,66,Man,Japan,5,Other,23,36073
+464,29,Man,USA,4,Data Analyst,4,61733
+465,70,Man,Japan,5,Program/Project Manager,25,281447
+466,40,Man,Japan,3,Software Engineer,20,4187
+467,57,Man,Japan,4,Other,0.5,90827
+468,27,Man,Japan,4,Research Scientist,4,43635
+469,27,Man,South Korea,4,Software Engineer,4,19357
+470,57,Man,South Korea,5,Machine Learning Engineer,5,10584
+471,24,Man,USA,3,Data Scientist,3,163919
+472,48,Man,Japan,5,Data Scientist,11,67455
+473,35,Woman,USA,4,Data Scientist,27,123948
+474,22,Woman,USA,3,Other,4,79597
+475,25,Man,Japan,2,Other,0.5,3846
+476,30,Man,USA,4,Data Scientist,3,138315
+477,51,Man,Japan,2,Program/Project Manager,28,50288
+478,30,Man,Japan,4,Data Scientist,14,63793
+479,22,Man,China,5,Data Analyst,0.5,366
+480,30,Man,China,3,Data Engineer,1,2081
+481,44,Man,South Korea,2,Software Engineer,19,105
+482,53,Man,USA,2,Data Scientist,0.5,150760
+483,39,Man,USA,5,Other,18,211075
+484,32,Woman,USA,4,Data Scientist,3,121512
+485,34,Man,USA,3,Software Engineer,4,60147
+486,27,Man,USA,3,Software Engineer,10,177319
+487,49,Man,USA,4,Other,0,71818
+488,49,Man,Japan,0,Software Engineer,14,54381
+489,18,Man,China,2,Software Engineer,2,619
+490,70,Man,USA,5,Other,21,114163
+491,42,Man,USA,5,Research Scientist,24,302
+492,33,Man,Japan,4,Data Engineer,0.5,5357
+493,31,Man,China,3,Data Analyst,9,4745
+494,43,Man,Japan,5,Machine Learning Engineer,14,9748
+495,43,Man,USA,5,Research Scientist,26,83657
+496,69,Woman,USA,4,Data Analyst,4,125072
+497,30,Woman,USA,5,Statistician,6,62402
+498,52,Man,USA,3,Software Engineer,27,188915
+499,53,Woman,USA,4,Data Scientist,27,152835
+500,56,Man,USA,2,Software Engineer,24,102686
+501,30,Man,Japan,4,Data Analyst,1,40880
+502,44,Man,USA,4,Software Engineer,11,100209
+503,43,Woman,USA,4,Data Scientist,19,12200
+504,46,Man,Japan,4,Program/Project Manager,1,94350
+505,24,Man,Japan,3,Data Scientist,4,860
+506,50,Woman,USA,4,Statistician,18,144571
+507,21,Man,China,4,Research Scientist,2,156
+508,25,Man,USA,5,Statistician,5,133068
+509,26,Man,Japan,3,Software Engineer,1,2142
+510,22,Man,Japan,3,Machine Learning Engineer,2,38274
+511,29,Man,Japan,3,Software Engineer,6,4562
+512,23,Prefer not to say,China,0,Developer Relations/Advocacy,3,686
+513,58,Man,USA,3,Software Engineer,22,119859
+514,45,Man,USA,4,Other,10,123677
+515,33,Woman,USA,5,Data Scientist,6,146764
+516,52,Man,USA,4,Other,22,198033
+517,68,Man,USA,4,Research Scientist,12,111
+518,42,Man,Japan,4,Data Scientist,15,9061
+519,32,Man,South Korea,4,Machine Learning Engineer,3,4932
+520,49,Man,USA,5,Machine Learning Engineer,21,737080
+521,50,Man,USA,3,Data Engineer,26,136156
+522,46,Man,USA,4,Program/Project Manager,18,240744
+523,61,Man,USA,4,Data Scientist,26,104854
+524,53,Man,USA,3,Research Scientist,27,47618
+525,28,Man,USA,4,Machine Learning Engineer,4,132874
+526,31,Man,Japan,3,Software Engineer,3,52727
+527,38,Man,USA,4,Machine Learning Engineer,11,166212
+528,29,Man,Japan,4,Research Scientist,0.5,51380
+529,34,Man,Japan,3,Product Manager,3,39449
+530,50,Man,USA,4,Machine Learning Engineer,16,241776
+531,31,Man,China,4,Data Scientist,3,1364
+532,53,Man,USA,3,Product Manager,22,142313
+533,38,Man,USA,3,Data Analyst,6,108560
+534,41,Woman,USA,3,Program/Project Manager,1,1908
+535,28,Man,USA,5,Machine Learning Engineer,6,153615
+536,25,Man,China,4,Machine Learning Engineer,2,11491
+537,37,Man,USA,4,Other,0,53196
+538,39,Man,South Korea,0,Data Scientist,20,80968
+539,43,Man,USA,5,Other,6,162215
+540,37,Nonbinary,USA,3,Developer Relations/Advocacy,2,1041344
+541,63,Man,USA,4,Software Engineer,28,155999
+542,28,Prefer not to say,USA,5,Machine Learning Engineer,5,405516
+543,42,Man,China,4,Program/Project Manager,21,95536
+544,64,Man,USA,5,Software Engineer,20,122712
+545,28,Woman,USA,4,Software Engineer,0.5,281
+546,70,Man,Japan,1,Other,24,6588
+547,35,Man,USA,4,Program/Project Manager,3,116416
+548,27,Man,Japan,3,Business Analyst,3,55224
+549,21,Man,USA,4,Data Scientist,2,321
+550,59,Man,USA,3,Other,0,824
+551,27,Woman,USA,2,Other,9,37547
+552,44,Man,Japan,4,Program/Project Manager,0.5,81387
+553,33,Man,USA,4,Software Engineer,8,115983
+554,23,Woman,USA,4,Software Engineer,1,849
+555,47,Prefer not to say,USA,2,Data Analyst,20,864
+556,69,Man,Japan,4,Other,0,108284
+557,46,Man,South Korea,4,Data Scientist,21,65663
+558,34,Man,USA,3,Program/Project Manager,0.5,51208
+559,43,Man,USA,3,Data Analyst,1,79817
+560,50,Woman,USA,4,DBA/Database Engineer,22,152272
+561,49,Man,USA,4,Data Engineer,13,152976
+562,36,Man,Japan,4,Other,0.5,6821
+563,38,Woman,USA,4,Research Scientist,3,95104
+564,34,Man,USA,4,Data Scientist,6,98014
+565,50,Man,USA,4,Program/Project Manager,5,97892
+566,63,Man,USA,3,DBA/Database Engineer,0,118511
+567,31,Man,USA,4,Research Scientist,0,69370
+568,43,Man,USA,5,Data Scientist,26,72193
+569,33,Woman,USA,5,Data Engineer,1,102911
+570,43,Man,USA,5,Program/Project Manager,18,122270
+571,57,Man,Japan,5,Research Scientist,27,124613
+572,41,Woman,USA,5,Other,18,16220
+573,26,Man,USA,4,Data Scientist,5,134334
+574,31,Woman,USA,5,Other,0.5,60502
+575,38,Woman,USA,4,Data Scientist,3,7561
+576,26,Man,USA,4,Data Engineer,0.5,45810
+577,54,Man,USA,4,Software Engineer,26,350
+578,37,Man,USA,3,Data Scientist,10,52691
+579,48,Man,Japan,1,Data Analyst,11,80854
+580,26,Man,Japan,4,Other,3,33656
+581,31,Man,USA,4,Data Scientist,3,136170
+582,46,Man,USA,5,Other,27,194351
+583,70,Man,USA,5,Business Analyst,16,87268
+584,43,Man,USA,3,Software Engineer,18,99234
+585,33,Man,USA,4,Data Analyst,3,70530
+586,49,Man,USA,5,Data Analyst,6,112896
+587,50,Man,Japan,3,Software Engineer,25,7761
+588,24,Man,Japan,2,Business Analyst,3,1395
+589,46,Woman,South Korea,3,Data Engineer,8,56206
+590,22,Man,China,3,Data Engineer,3,5413
+591,24,Woman,USA,4,Machine Learning Engineer,7,130252
+592,25,Man,USA,4,Software Engineer,20,144978
+593,40,Woman,USA,4,Data Scientist,14,196503
+594,47,Man,USA,5,Software Engineer,26,836
+595,42,Man,South Korea,3,Program/Project Manager,1,3363
+596,54,Man,Japan,3,Program/Project Manager,23,79444
+597,22,Man,USA,4,Data Scientist,3,49136
+598,25,Man,China,4,Data Engineer,1,7234
+599,45,Man,USA,4,Other,1,67297
+600,24,Man,China,3,Data Scientist,3,4700
+601,39,Woman,USA,4,Product Manager,4,178849
+602,39,Man,China,3,Data Engineer,1,23452
+603,36,Man,China,3,Software Engineer,19,49385
+604,28,Man,Japan,2,Data Analyst,3,41786
+605,35,Woman,Japan,3,Other,1,7966
+606,33,Man,USA,4,Data Analyst,0.5,61919
+607,50,Woman,USA,4,Other,27,81367
+608,63,Man,USA,5,Software Engineer,26,137849
+609,36,Woman,USA,3,Research Scientist,2,2095
+610,28,Man,Japan,4,Data Scientist,3,77197
+611,46,Man,Japan,4,Other,1,119204
+612,36,Man,USA,4,Data Scientist,9,124294
+613,30,Man,USA,4,Data Scientist,2,95043
+614,66,Man,USA,5,Other,25,391771
+615,55,Man,USA,3,Software Engineer,27,62187
+616,31,Woman,China,3,Data Scientist,2,63332
+617,25,Man,USA,4,Data Scientist,4,100761
+618,40,Woman,USA,4,Business Analyst,3,100633
+619,42,Man,USA,3,Data Analyst,14,119928
+620,18,Man,China,3,Software Engineer,0.5,13526
+621,32,Man,South Korea,4,Data Analyst,0.5,43199
+622,57,Man,USA,5,Research Scientist,28,146130
+623,53,Man,USA,4,Other,0.5,137225
+624,32,Man,Japan,3,Software Engineer,1,45613
+625,34,Man,USA,4,Software Engineer,6,101543
+626,29,Man,Japan,3,Software Engineer,1,45402
+627,28,Man,China,4,Research Scientist,4,43450
+628,35,Man,USA,3,Program/Project Manager,6,129916
+629,29,Man,USA,3,Software Engineer,5,125868
+630,27,Man,USA,4,Data Analyst,1,88168
+631,28,Man,Japan,5,Research Scientist,5,544
+632,25,Woman,Japan,4,Data Scientist,6,56500
+633,30,Woman,China,4,Machine Learning Engineer,3,804
+634,36,Woman,USA,5,Other,12,160830
+635,36,Man,USA,4,Data Analyst,5,198718
+636,40,Man,USA,4,Other,27,151838
+637,45,Man,South Korea,4,Software Engineer,25,71160
+638,40,Man,South Korea,4,Data Engineer,2,1011666
+639,29,Man,Japan,3,Data Scientist,3,4377
+640,66,Man,Japan,5,Other,22,23299
+641,30,Nonbinary,USA,4,Data Analyst,5,74481
+642,34,Man,Japan,4,Product Manager,1,62212
+643,28,Man,USA,5,Data Scientist,8,87416
+644,42,Man,South Korea,2,Product Manager,0,111606
+645,39,Man,USA,3,Other,1,80756
+646,37,Man,USA,3,Data Analyst,0,44404
+647,63,Man,USA,4,Machine Learning Engineer,23,144192
+648,45,Man,USA,5,Other,1,175668
+649,22,Man,USA,2,Data Analyst,3,33081
+650,36,Man,Japan,3,Machine Learning Engineer,20,50915
+651,52,Man,Japan,4,Other,25,13176
+652,19,Man,USA,5,Software Engineer,7,2847
+653,57,Woman,USA,4,Other,3,48192
+654,43,Man,USA,3,Other,5,28891
+655,19,Woman,China,3,Data Scientist,1,2302
+656,31,Woman,USA,4,Software Engineer,6,129058
+657,38,Man,Japan,4,Software Engineer,15,7221
+658,28,Man,Japan,3,Software Engineer,1,42276
+659,48,Woman,USA,3,Other,0.5,2364
+660,25,Man,USA,4,Machine Learning Engineer,6,116439
+661,19,Man,China,4,Machine Learning Engineer,0.5,887
+662,31,Woman,USA,4,Other,0.5,353
+663,38,Man,USA,4,Data Analyst,0.5,75332
+664,26,Man,USA,4,Data Scientist,10,101567
+665,30,Man,USA,4,Business Analyst,8,141587
+666,43,Man,USA,4,Data Analyst,0,60822
+667,27,Man,USA,4,Data Scientist,6,83113
+668,29,Man,South Korea,4,Data Scientist,3,200
+669,30,Man,USA,3,Business Analyst,2,87933
+670,21,Man,USA,3,DBA/Database Engineer,2,10263
+671,34,Man,Japan,2,Other,3,44731
+672,46,Man,USA,4,DBA/Database Engineer,20,98885
+673,35,Man,China,2,Software Engineer,15,53180
+674,24,Man,China,4,Machine Learning Engineer,1,18
+675,33,Man,China,5,Research Scientist,13,47081
+676,60,Man,USA,4,DBA/Database Engineer,25,31391
+677,54,Man,USA,4,Product Manager,29,894810
+678,69,Man,USA,4,Software Engineer,8,183993
+679,39,Man,China,5,Research Scientist,3,112893
+680,36,Man,Japan,3,Software Engineer,16,68402
+681,41,Man,USA,5,Research Scientist,24,172878
+682,36,Man,USA,5,Software Engineer,3,75021
+683,34,Man,Japan,1,Software Engineer,8,35426
+684,41,Man,USA,3,Other,5,124667
+685,37,Man,South Korea,3,Machine Learning Engineer,4,31694
+686,30,Man,Japan,0,Software Engineer,2,3634
+687,54,Man,USA,3,Machine Learning Engineer,5,205947
+688,25,Man,USA,3,Data Analyst,0.5,51944
+689,64,Man,USA,4,Other,3,127445
+690,34,Woman,USA,4,Data Scientist,0.5,88760
+691,39,Man,Japan,4,Other,1,9003
+692,18,Man,China,2,Data Analyst,1,428
+693,29,Man,Japan,3,Data Analyst,0.5,4481
+694,53,Man,USA,5,Data Scientist,19,125008
+695,29,Man,USA,4,Other,10,145545
+696,51,Man,Japan,2,Product Manager,5,80900
+697,70,Man,USA,5,Research Scientist,27,227226
+698,38,Man,Japan,4,Other,0.5,61660
+699,41,Man,USA,0,Software Engineer,22,175785
+700,23,Man,China,5,Business Analyst,3,4989
+701,31,Man,USA,4,Data Scientist,5,147618
+702,49,Woman,USA,5,Program/Project Manager,0.5,155732
+703,42,Man,USA,4,Software Engineer,24,251036
+704,40,Man,USA,5,Data Scientist,15,108964
+705,41,Man,USA,4,Data Analyst,4,118587
+706,64,Man,USA,4,Other,0.5,73555
+707,29,Woman,China,4,Data Analyst,0.5,10067
+708,49,Man,USA,4,Business Analyst,1,218326
+709,54,Man,USA,5,Product Manager,22,109784
+710,25,Man,USA,3,Other,5,84316
+711,38,Woman,USA,4,Data Analyst,3,79676
+712,26,Man,USA,2,Data Analyst,0.5,4736
+713,45,Man,USA,4,Business Analyst,28,140536
+714,38,Man,USA,3,Data Scientist,11,229596
+715,43,Man,USA,4,Other,2,58186
+716,45,Woman,USA,4,Software Engineer,25,106825
+717,39,Man,USA,3,Other,0.5,59209
+718,54,Man,Japan,0,Software Engineer,26,81150
+719,39,Woman,USA,4,Data Scientist,10,109234
+720,52,Man,Japan,3,Software Engineer,25,11010
+721,33,Woman,USA,3,Software Engineer,3,2414
+722,41,Man,Japan,3,Data Analyst,3,110674
+723,50,Man,USA,3,Data Engineer,20,183779
+724,45,Man,USA,5,Other,1,64816
+725,43,Woman,USA,3,Program/Project Manager,0.5,103742
+726,38,Woman,USA,0,Research Scientist,2,23646
+727,48,Prefer not to say,Japan,4,Software Engineer,27,8919
+728,32,Man,South Korea,3,Business Analyst,0.5,4552
+729,45,Man,USA,5,Data Scientist,6,136637
+730,35,Man,South Korea,3,Software Engineer,14,86506
+731,32,Man,Japan,4,Research Scientist,7,326
+732,46,Man,USA,4,Other,25,147837
+733,30,Man,China,4,Machine Learning Engineer,9,101369
+734,36,Man,USA,5,Data Scientist,18,184724
+735,21,Man,China,2,Data Analyst,0.5,972
+736,25,Man,China,5,Machine Learning Engineer,1,65075
+737,26,Woman,South Korea,3,Data Analyst,3,935
+738,35,Man,USA,4,Other,10,160338
+739,26,Man,Japan,1,Software Engineer,3,42198
+740,53,Woman,USA,4,Other,3,108896
+741,45,Man,USA,5,Data Scientist,17,182862
+742,56,Man,Japan,3,Research Scientist,3,64470
+743,37,Man,USA,3,Data Analyst,3,101204
+744,45,Man,South Korea,3,Other,0.5,58494
+745,33,Man,China,5,Research Scientist,8,32243
+746,48,Man,USA,4,Data Scientist,15,1062148
+747,64,Woman,Japan,5,Research Scientist,20,647
+748,50,Man,USA,5,Data Scientist,29,183298
+749,58,Woman,USA,4,Other,22,618
+750,31,Man,Japan,4,Other,10,210376
+751,30,Man,Japan,5,Research Scientist,4,43220
+752,56,Woman,USA,5,Other,29,251403
+753,31,Man,Japan,5,Data Engineer,1,55971
+754,57,Man,USA,4,Other,22,778249
+755,49,Man,USA,4,Other,20,124843
+756,51,Man,Japan,4,Business Analyst,14,14152
+757,55,Man,USA,5,Data Scientist,28,236907
+758,35,Man,China,4,Data Engineer,13,226806
+759,27,Man,South Korea,5,Research Scientist,5,605
+760,51,Man,USA,5,Other,1,83798
+761,33,Woman,USA,3,Software Engineer,9,70703
+762,36,Man,China,2,Data Analyst,4,6112
+763,51,Man,Japan,3,Statistician,19,64329
+764,50,Man,USA,3,Data Scientist,5,106032
+765,46,Man,South Korea,3,Software Engineer,23,119872
+766,49,Man,USA,4,Data Scientist,20,173730
+767,21,Man,China,3,Business Analyst,0,468
+768,49,Man,Japan,5,Research Scientist,24,5015
+769,29,Prefer not to say,USA,4,Machine Learning Engineer,6,29397
+770,48,Woman,USA,4,Software Engineer,3,392
+771,57,Man,USA,4,Data Analyst,5,84145
+772,27,Man,USA,4,Research Scientist,2,51437
+773,30,Man,USA,4,Other,3,61285
+774,37,Man,China,3,Program/Project Manager,11,729
+775,29,Woman,Japan,4,Other,0.5,66708
+776,25,Man,USA,4,Other,1,64608
+777,57,Man,USA,4,Other,25,13014
+778,23,Man,China,4,Data Analyst,4,1445
+779,30,Man,USA,5,Research Scientist,6,123602
+780,49,Man,Japan,3,Program/Project Manager,22,97492
+781,46,Woman,USA,2,Data Analyst,1,35951
+782,40,Woman,USA,4,Data Scientist,8,111118
+783,45,Man,China,5,Program/Project Manager,22,168367
+784,27,Man,USA,4,Data Scientist,2,12035
+785,28,Man,South Korea,2,Data Scientist,0.5,180
+786,36,Man,USA,4,Data Analyst,7,115270
+787,34,Man,Japan,3,Program/Project Manager,9,71556
+788,45,Man,USA,5,Statistician,11,104253
+789,52,Man,USA,3,Software Engineer,12,131047
+790,28,Woman,USA,3,Product Manager,6,236473
+791,68,Man,USA,4,Data Scientist,29,181141
+792,56,Prefer not to say,USA,4,Research Scientist,2,529
+793,26,Man,Japan,4,Software Engineer,2,3873
+794,64,Man,USA,3,Data Engineer,26,99197
+795,35,Man,USA,3,Data Engineer,20,124787
+796,52,Woman,USA,4,Data Scientist,24,19108
+797,32,Man,Japan,3,Data Analyst,3,45427
+798,18,Man,China,3,Data Analyst,0.5,36844
+799,53,Woman,USA,4,Software Engineer,22,147022
+800,43,Woman,Japan,4,Statistician,3,59337
+801,48,Man,South Korea,5,Software Engineer,22,106286
+802,52,Man,USA,3,Data Analyst,10,112658
+803,27,Man,China,3,Data Analyst,5,29607
+804,37,Man,Japan,4,Business Analyst,1,101965
+805,24,Man,USA,4,Data Scientist,1,192548
+806,51,Man,South Korea,3,Software Engineer,7,116304
+807,47,Man,USA,4,Data Scientist,29,1531
+808,62,Man,USA,3,Other,0.5,38305
+809,51,Man,USA,4,Product Manager,8,169021
+810,32,Prefer not to say,USA,0,Software Engineer,8,4382
+811,40,Man,USA,3,Program/Project Manager,5,134784
+812,36,Man,Japan,3,Research Scientist,3,71816
+813,51,Man,USA,4,Data Engineer,29,195483
+814,41,Man,USA,4,Developer Relations/Advocacy,9,328589
+815,42,Woman,USA,5,Data Analyst,5,109964
+816,61,Man,Japan,5,Research Scientist,26,391
+817,47,Man,USA,4,Other,1,107760
+818,59,Man,USA,3,Other,15,143564
+819,32,Man,China,4,Data Engineer,6,126575
+820,26,Man,China,3,Developer Relations/Advocacy,0.5,171
+821,61,Man,Japan,0,Business Analyst,0,2038
+822,28,Man,USA,4,Software Engineer,3,90309
+823,45,Man,South Korea,3,Product Manager,0,9379
+824,30,Man,USA,3,Data Scientist,9,94024
+825,33,Man,USA,4,Software Engineer,14,139776
+826,38,Man,USA,5,Machine Learning Engineer,6,93955
+827,29,Man,China,4,Data Analyst,1,22863
+828,49,Man,USA,5,Other,29,435026
+829,64,Man,Japan,5,Research Scientist,5,77
+830,54,Woman,Japan,1,Data Analyst,23,8453
+831,29,Woman,USA,5,Research Scientist,4,36701
+832,33,Woman,China,4,Data Analyst,1,78264
+833,36,Man,South Korea,5,Data Scientist,7,51003
+834,41,Man,USA,2,Other,28,32785
+835,34,Man,USA,4,Data Scientist,15,176749
+836,29,Man,South Korea,2,Machine Learning Engineer,2,183
+837,59,Woman,USA,4,Product Manager,0.5,286549
+838,43,Man,South Korea,0,Data Scientist,13,75171
+839,25,Woman,South Korea,5,Data Scientist,5,1305
+840,18,Man,USA,4,Software Engineer,4,384
+841,36,Woman,China,4,Business Analyst,1,35818
+842,34,Man,China,5,Statistician,2,5285
+843,32,Man,USA,4,Data Analyst,9,118833
+844,48,Man,Japan,4,Machine Learning Engineer,1,839
+845,20,Man,Japan,4,Data Engineer,1,386
+846,45,Man,Japan,4,Product Manager,24,110911
+847,40,Man,USA,5,Data Scientist,23,1028118
+848,37,Man,Japan,3,Other,2,70680
+849,28,Woman,USA,3,Business Analyst,2,95927
+850,22,Man,China,3,Data Engineer,1,2067
+851,27,Man,China,5,Data Analyst,0.5,847
+852,24,Woman,China,4,Data Scientist,0.5,10787
+853,44,Man,USA,4,Software Engineer,29,104058
+854,39,Woman,China,5,Data Analyst,15,8324
+855,29,Man,Japan,0,Software Engineer,3,3224
+856,37,Man,USA,4,Data Scientist,6,186578
+857,29,Woman,USA,2,Business Analyst,0.5,50628
+858,37,Man,Japan,4,Developer Relations/Advocacy,1,397
+859,30,Woman,USA,5,Software Engineer,6,250536
+860,33,Man,Japan,3,Data Scientist,2,66627
+861,52,Man,USA,5,Other,23,193144
+862,38,Man,USA,5,Other,3,232485
+863,29,Man,Japan,3,Software Engineer,4,4491
+864,35,Man,USA,5,Data Scientist,3,104676
+865,60,Man,USA,3,Data Scientist,26,109548
+866,33,Man,Japan,4,Machine Learning Engineer,19,67144
+867,52,Man,USA,3,Data Scientist,29,773
+868,24,Man,USA,4,Machine Learning Engineer,5,91194
+869,46,Man,Japan,4,Program/Project Manager,20,96821
+870,61,Man,USA,3,Statistician,7,557
+871,26,Man,USA,4,Machine Learning Engineer,10,127600
+872,23,Man,USA,5,Product Manager,0,874
+873,49,Man,Japan,3,Software Engineer,0.5,3638
+874,30,Man,China,5,Software Engineer,5,455
+875,26,Man,China,3,Business Analyst,0.5,116
+876,67,Man,USA,4,Data Engineer,29,185230
+877,61,Prefer not to say,USA,4,Software Engineer,19,44138
+878,30,Man,USA,4,Software Engineer,10,149109
+879,33,Man,USA,3,Data Analyst,4,86767
+880,29,Man,China,4,Business Analyst,3,8885
+881,27,Woman,Japan,4,Software Engineer,11,40363
+882,55,Man,USA,4,Program/Project Manager,3,99166
+883,39,Man,Japan,1,Other,3,42714
+884,28,Man,USA,3,Research Scientist,4,95049
+885,47,Woman,USA,3,Other,19,12572
+886,49,Man,USA,4,Data Scientist,15,159320
+887,48,Woman,USA,3,Other,0,12981
+888,43,Man,USA,4,Data Engineer,3,114270
+889,24,Man,China,4,Software Engineer,1,39867
+890,40,Man,USA,4,Data Scientist,11,114677
+891,57,Man,USA,3,Data Analyst,24,76457
+892,43,Woman,USA,5,Data Analyst,25,102430
+893,25,Man,Japan,3,Program/Project Manager,0.5,60232
+894,47,Man,Japan,0,Research Scientist,2,146612
+895,20,Woman,Japan,2,Data Analyst,0.5,589
+896,34,Man,USA,4,Data Engineer,18,100458
+897,70,Man,USA,5,Research Scientist,28,234986
+898,24,Man,USA,4,Software Engineer,3,12224
+899,30,Man,USA,2,Data Scientist,14,1095238
+900,48,Man,Japan,3,Other,21,67423
+901,53,Woman,USA,4,Other,0,62172
+902,29,Man,USA,5,Machine Learning Engineer,4,5464
+903,35,Woman,USA,3,Other,0,65512
+904,33,Man,USA,4,Data Engineer,5,257131
+905,22,Nonbinary,USA,3,Product Manager,2,94944
+906,27,Man,USA,4,Data Scientist,8,101595
+907,50,Man,USA,3,Other,3,86180
+908,33,Man,South Korea,4,Software Engineer,3,34372
+909,30,Woman,USA,4,Data Scientist,10,132602
+910,59,Man,USA,5,Research Scientist,5,88751
+911,26,Woman,China,4,Business Analyst,0.5,18208
+912,44,Man,USA,4,Data Analyst,13,104710
+913,41,Man,Japan,0,Data Engineer,10,54695
+914,42,Man,South Korea,3,Machine Learning Engineer,5,58160
+915,36,Man,USA,3,Data Scientist,4,126437
+916,25,Woman,South Korea,3,Data Engineer,1,674
+917,33,Man,China,3,Other,0.5,11411
+918,37,Man,USA,4,Data Analyst,10,78931
+919,37,Man,South Korea,5,Research Scientist,1,51625
+920,34,Man,China,3,Machine Learning Engineer,7,6689
+921,59,Man,USA,3,Data Analyst,0,47407
+922,47,Man,South Korea,5,Data Scientist,0.5,53584
+923,41,Man,Japan,4,Data Scientist,2,1740
+924,33,Man,USA,4,Machine Learning Engineer,0,9028
+925,36,Man,China,3,Software Engineer,11,3858
+926,45,Man,Japan,4,Other,24,7283
+927,64,Man,USA,4,Other,4,89470
+928,61,Man,USA,5,Data Analyst,26,117404
+929,33,Man,USA,4,Data Scientist,8,103038
+930,44,Man,China,4,Program/Project Manager,5,20461
+931,45,Man,USA,4,Software Engineer,28,142059
+932,30,Woman,USA,0,Other,0.5,81549
+933,26,Man,Japan,0,Other,1,43274
+934,39,Man,Japan,0,Other,19,521
+935,51,Man,South Korea,5,Data Engineer,0,16712
+936,22,Man,China,4,Data Analyst,0.5,844
+937,64,Man,USA,5,Research Scientist,24,334620
+938,50,Man,Japan,5,Research Scientist,20,1810
+939,26,Man,USA,4,Data Scientist,0.5,150
+940,23,Man,China,4,Data Scientist,0.5,398
+941,32,Man,Japan,4,Data Engineer,4,42602
+942,53,Man,USA,5,Machine Learning Engineer,16,139589
+943,30,Woman,USA,4,Program/Project Manager,0,40
+944,42,Man,USA,4,Data Analyst,22,778
+945,55,Man,USA,5,Other,0,82434
+946,25,Man,Japan,4,Software Engineer,6,32896
+947,41,Man,Japan,1,Software Engineer,7,56827
+948,61,Man,USA,4,Product Manager,25,132487
+949,70,Man,USA,5,Statistician,22,58
+950,64,Man,USA,2,Data Scientist,24,99801
+951,49,Man,Japan,0,Other,0.5,115814
+952,27,Man,China,4,Data Scientist,4,4947
+953,57,Woman,USA,4,Other,22,246948
+954,34,Man,USA,5,Research Scientist,13,115696
+955,41,Woman,USA,5,Data Scientist,15,176679
+956,32,Man,USA,4,Data Scientist,10,154813
+957,34,Man,USA,4,Machine Learning Engineer,10,293610
+958,70,Man,Japan,3,Data Scientist,29,46659
+959,46,Man,China,4,Program/Project Manager,16,224670
+960,46,Man,USA,4,Data Analyst,6,85365
+961,31,Man,USA,3,Software Engineer,10,308962
+962,33,Man,Japan,5,Data Scientist,9,34590
+963,44,Man,USA,4,Data Scientist,15,189651
+964,42,Man,USA,3,Product Manager,8,102281
+965,27,Man,South Korea,2,Data Engineer,0,2933
+966,24,Man,Japan,2,Other,0.5,43798
+967,53,Man,USA,2,Data Engineer,18,100610
+968,23,Man,Japan,4,Program/Project Manager,5,32767
+969,40,Woman,USA,4,Research Scientist,3,935
+970,47,Man,Japan,4,Software Engineer,20,70000
+971,54,Prefer not to say,USA,4,Data Scientist,18,251842
+972,58,Man,USA,3,Data Scientist,24,2020
+973,25,Man,USA,4,Research Scientist,0.5,51156
+974,41,Man,South Korea,3,Other,2,81102
+975,60,Man,USA,5,Other,23,85097
+976,36,Woman,USA,2,Other,0,42597
+977,34,Man,USA,4,Machine Learning Engineer,16,157126
+978,25,Man,USA,3,Data Analyst,1,61895
+979,39,Man,USA,4,Business Analyst,0,746
+980,43,Man,Japan,2,Software Engineer,5,69093
+981,36,Man,China,5,Software Engineer,11,84859
+982,51,Man,USA,3,Program/Project Manager,3,114778
+983,43,Man,USA,5,Statistician,16,163047
+984,55,Man,South Korea,5,Machine Learning Engineer,21,268639
+985,30,Man,USA,5,Research Scientist,13,113258
+986,61,Man,Japan,0,Research Scientist,23,832
+987,29,Man,USA,4,Data Scientist,3,29314
+988,35,Man,USA,4,Data Scientist,9,96888
+989,60,Man,USA,2,Business Analyst,0,102869
+990,48,Man,Japan,5,Research Scientist,3,56070
+991,21,Woman,USA,4,Program/Project Manager,0,42516
+992,28,Man,USA,4,Data Scientist,4,86327
+993,66,Man,Japan,0,Product Manager,0.5,3011
+994,27,Man,South Korea,4,Research Scientist,1,334
+995,47,Woman,USA,3,Data Analyst,1,4144
+996,35,Man,USA,5,Data Scientist,7,85772
+997,68,Man,USA,4,Other,0.5,236088
+998,21,Woman,USA,4,Data Analyst,8,1134
+999,68,Man,Japan,5,Research Scientist,0,162637
+1000,37,Man,USA,3,Business Analyst,2,105734
+1001,41,Man,Japan,4,Software Engineer,2,959
+1002,32,Man,China,3,Other,3,143988
+1003,68,Man,USA,5,Other,0.5,80227
+1004,22,Man,China,3,Data Scientist,3,3706
+1005,26,Man,USA,4,Business Analyst,0,492
+1006,36,Man,Japan,4,Data Scientist,3,95
+1007,35,Man,USA,3,Data Scientist,20,410373
+1008,51,Man,USA,3,Software Engineer,28,111183
+1009,31,Man,USA,5,Product Manager,8,184444
+1010,61,Man,South Korea,5,Business Analyst,2,53521
+1011,36,Man,Japan,3,Software Engineer,12,52572
+1012,70,Woman,USA,4,Business Analyst,1,843
+1013,68,Man,USA,5,Data Scientist,11,175894
+1014,70,Man,USA,4,Data Engineer,28,163745
+1015,46,Man,USA,3,Software Engineer,29,342504
+1016,23,Man,China,4,Software Engineer,3,557
+1017,36,Man,Japan,4,Data Scientist,15,13182
+1018,53,Man,Japan,5,Statistician,3,75327
+1019,54,Man,Japan,5,Research Scientist,2,98495
+1020,44,Woman,USA,4,Product Manager,0,142743
+1021,23,Man,Japan,3,Business Analyst,0.5,38338
+1022,24,Man,USA,5,Research Scientist,0,991
+1023,47,Man,Japan,4,Other,23,100884
+1024,58,Man,USA,5,Other,27,101844
+1025,34,Man,USA,3,Data Scientist,7,97891
+1026,42,Man,USA,5,Research Scientist,23,123987
+1027,44,Prefer not to say,USA,5,Data Analyst,12,65463
+1028,33,Man,Japan,5,Research Scientist,0.5,124456
+1029,29,Man,USA,3,Machine Learning Engineer,8,130798
+1030,63,Man,Japan,5,Research Scientist,20,44486
+1031,30,Man,USA,4,Data Scientist,5,88568
+1032,44,Man,USA,5,Research Scientist,20,8467
+1033,37,Man,USA,5,Machine Learning Engineer,13,725273
+1034,41,Man,USA,3,Data Scientist,0.5,129
+1035,39,Man,USA,5,Data Scientist,5,166582
+1036,30,Man,USA,2,Research Scientist,14,86627
+1037,29,Man,Japan,4,Research Scientist,3,50861
+1038,55,Man,USA,3,Other,25,95
+1039,41,Man,Japan,4,Other,0.5,2399
+1040,32,Man,Japan,3,Data Scientist,9,240360
+1041,37,Man,USA,5,Data Scientist,10,110791
+1042,46,Man,Japan,4,Other,0.5,106732
+1043,35,Man,Japan,2,Product Manager,18,6298
+1044,43,Woman,USA,4,Other,3,56892
+1045,64,Man,USA,4,Research Scientist,17,92994
+1046,23,Man,USA,3,Research Scientist,5,354
+1047,35,Man,China,3,Machine Learning Engineer,6,17559
+1048,32,Man,South Korea,1,Other,0.5,2447
+1049,49,Man,Japan,4,Other,2,91881
+1050,29,Woman,Japan,4,Statistician,0.5,37634
+1051,56,Man,Japan,5,Research Scientist,26,399
+1052,45,Man,USA,4,Other,0.5,74227
+1053,27,Woman,USA,3,Other,4,25971
+1054,53,Man,USA,5,Product Manager,27,392155
+1055,55,Man,USA,3,Other,26,664
+1056,55,Man,USA,3,Software Engineer,21,168106
+1057,40,Man,USA,1,Other,3,56068
+1058,46,Man,Japan,3,Product Manager,0.5,106841
+1059,66,Man,USA,4,DBA/Database Engineer,28,20812
+1060,39,Prefer not to say,Japan,2,Other,18,7
+1061,31,Woman,Japan,4,Data Scientist,15,65304
+1062,30,Man,South Korea,4,Data Scientist,2,58677
+1063,43,Man,USA,5,Data Scientist,13,333553
+1064,40,Man,Japan,4,Software Engineer,26,30547
+1065,51,Man,USA,5,Research Scientist,7,199426
+1066,44,Man,USA,3,Data Scientist,14,130823
+1067,59,Man,USA,4,Data Scientist,22,203612
+1068,39,Woman,USA,3,Product Manager,0,81839
+1069,26,Man,China,4,Machine Learning Engineer,2,77139
+1070,34,Woman,USA,5,Research Scientist,13,25448
+1071,56,Man,USA,4,Program/Project Manager,22,165474
+1072,52,Man,USA,3,DBA/Database Engineer,20,140188
+1073,32,Man,USA,4,Program/Project Manager,2,134517
+1074,34,Man,Japan,5,Research Scientist,0.5,13811
+1075,22,Man,USA,3,Business Analyst,2,74804
+1076,46,Woman,USA,3,Data Analyst,3,83241
+1077,30,Man,USA,4,Machine Learning Engineer,16,121501
+1078,43,Man,USA,4,Other,13,111148
+1079,35,Man,USA,4,Data Scientist,13,329938
+1080,26,Man,South Korea,3,Data Scientist,5,4725
+1081,35,Man,USA,4,Data Scientist,9,432706
+1082,29,Prefer to self-describe,USA,3,Data Scientist,3,421
+1083,24,Man,China,4,Machine Learning Engineer,3,417
+1084,33,Man,USA,4,Machine Learning Engineer,4,105008
+1085,63,Man,USA,5,Research Scientist,14,189109
+1086,44,Woman,USA,4,Business Analyst,0,66842
+1087,31,Man,USA,3,Data Scientist,9,147610
+1088,34,Man,Japan,4,Software Engineer,0,7444
+1089,47,Man,USA,3,Software Engineer,13,97148
+1090,23,Man,South Korea,2,Machine Learning Engineer,9,69173
+1091,41,Man,USA,4,Data Scientist,14,141978
+1092,41,Man,Japan,4,Data Scientist,4,99273
+1093,47,Man,USA,4,Data Engineer,23,222554
+1094,59,Man,USA,5,Research Scientist,20,191515
+1095,41,Man,USA,5,Research Scientist,3,147766
+1096,25,Man,USA,3,Business Analyst,0,79784
+1097,46,Man,USA,4,Data Scientist,5,133602
+1098,49,Man,South Korea,1,Data Scientist,8,12334
+1099,27,Man,Japan,2,Software Engineer,3,2149
+1100,26,Man,China,4,Data Engineer,1,7195
+1101,37,Man,USA,5,Data Analyst,3,59736
+1102,49,Man,USA,4,Data Scientist,21,195377
+1103,35,Man,China,5,Machine Learning Engineer,13,5558
+1104,44,Man,USA,4,Business Analyst,0.5,29942
+1105,33,Woman,USA,4,Data Analyst,8,106301
+1106,44,Man,South Korea,5,Data Scientist,21,9917
+1107,39,Man,Japan,4,Software Engineer,3,55152
+1108,52,Man,South Korea,3,Other,3,143086
+1109,32,Woman,USA,5,Data Scientist,4,104082
+1110,37,Man,Japan,3,Program/Project Manager,19,82861
+1111,37,Man,USA,4,Data Scientist,16,198384
+1112,34,Man,USA,3,Software Engineer,7,97427
+1113,39,Man,USA,4,Machine Learning Engineer,15,282
+1114,34,Man,USA,4,Data Engineer,8,84986
+1115,34,Man,Japan,1,Software Engineer,3,56301
+1116,38,Man,Japan,4,Data Engineer,11,66570
+1117,50,Woman,USA,4,Program/Project Manager,5,117523
+1118,33,Man,Japan,2,Other,0.5,53794
+1119,40,Man,Japan,0,Software Engineer,12,62817
+1120,33,Man,Japan,4,Software Engineer,4,54752
+1121,30,Man,USA,5,Software Engineer,5,119709
+1122,32,Man,USA,4,Business Analyst,5,125752
+1123,39,Woman,USA,4,Other,0,77467
+1124,25,Man,USA,4,Software Engineer,1,140145
+1125,45,Man,USA,4,Program/Project Manager,0.5,142804
+1126,46,Man,Japan,5,Other,20,14204
+1127,47,Man,China,3,Data Analyst,8,63498
+1128,24,Man,USA,4,Research Scientist,11,15853
+1129,36,Woman,South Korea,3,Data Analyst,3,47204
+1130,33,Man,USA,4,Business Analyst,2,134415
+1131,46,Man,Japan,2,Software Engineer,17,465
+1132,35,Man,South Korea,5,Research Scientist,0,290
+1133,23,Man,China,5,Data Analyst,2,12547
+1134,35,Man,USA,4,Data Scientist,9,145416
+1135,31,Man,Japan,2,Data Analyst,4,8641
+1136,60,Man,USA,5,Machine Learning Engineer,25,295092
+1137,35,Man,Japan,2,Program/Project Manager,10,10406
+1138,27,Man,China,4,Software Engineer,10,2336
+1139,28,Man,USA,3,Product Manager,3,153786
+1140,57,Woman,USA,5,Other,0.5,265206
+1141,30,Man,USA,4,Software Engineer,4,97266
+1142,30,Man,South Korea,3,Other,4,72298
+1143,28,Man,China,0,Machine Learning Engineer,5,24092
+1144,28,Woman,China,4,Data Analyst,7,6171
+1145,56,Man,USA,2,Data Engineer,20,151102
+1146,47,Man,USA,5,Data Scientist,24,837981
+1147,37,Man,USA,3,Machine Learning Engineer,6,159016
+1148,47,Man,USA,4,Software Engineer,14,97648
+1149,46,Man,South Korea,4,Data Analyst,13,112496
+1150,31,Man,Japan,4,Software Engineer,9,62669
+1151,23,Prefer not to say,China,0,Data Analyst,3,88
+1152,29,Woman,USA,4,Software Engineer,3,94427
+1153,35,Woman,USA,3,Data Analyst,0.5,32880
+1154,59,Woman,USA,5,Data Analyst,3,93202
+1155,49,Man,USA,4,Other,29,267473
+1156,35,Woman,USA,5,Data Analyst,11,447690
+1157,28,Man,China,4,Data Scientist,1,38731
+1158,38,Man,South Korea,4,Data Scientist,0.5,7217
+1159,31,Woman,USA,5,Product Manager,6,181378
+1160,60,Man,USA,4,Data Engineer,23,182785
+1161,22,Man,USA,3,Business Analyst,1,53283
+1162,37,Man,Japan,5,Research Scientist,11,54858
+1163,43,Man,South Korea,5,Machine Learning Engineer,0.5,83003
+1164,27,Woman,USA,4,Data Analyst,3,61540
+1165,66,Woman,USA,4,Other,0,135743
+1166,29,Man,USA,4,Research Scientist,4,27640
+1167,48,Man,USA,4,Program/Project Manager,5,226399
+1168,30,Man,Japan,1,Research Scientist,0.5,59122
+1169,26,Man,USA,4,Machine Learning Engineer,10,150104
+1170,28,Woman,USA,4,Data Analyst,8,98061
+1171,41,Woman,South Korea,5,Research Scientist,3,64323
+1172,23,Man,Japan,3,Software Engineer,0.5,34950
+1173,26,Woman,USA,3,Other,0.5,39466
+1174,51,Man,USA,4,Software Engineer,27,102667
+1175,66,Woman,USA,2,Data Analyst,0,39197
+1176,28,Man,Japan,4,Data Scientist,5,632
+1177,24,Man,USA,3,Software Engineer,5,82750
+1178,31,Man,USA,4,Data Analyst,4,111524
+1179,33,Man,China,4,Software Engineer,15,4435
+1180,41,Man,USA,5,Other,19,98018
+1181,29,Man,Japan,3,Other,1,32706
+1182,32,Man,China,4,Other,0,7975
+1183,24,Man,China,4,Machine Learning Engineer,1,33708
+1184,30,Man,South Korea,3,Software Engineer,9,71950
+1185,51,Man,USA,2,Software Engineer,28,588952
+1186,26,Prefer to self-describe,USA,4,Data Scientist,2,119842
+1187,59,Man,USA,2,Other,26,93584
+1188,35,Man,China,4,Data Engineer,7,150120
+1189,33,Woman,USA,4,Program/Project Manager,0.5,78986
+1190,49,Man,Japan,5,Program/Project Manager,23,113442
+1191,38,Man,USA,5,Research Scientist,0.5,3855
+1192,33,Man,USA,4,Data Scientist,7,227152
+1193,66,Man,USA,4,DBA/Database Engineer,22,122240
+1194,29,Man,USA,2,Other,2,60692
+1195,27,Man,USA,4,Other,17,96779
+1196,23,Man,USA,3,Software Engineer,1,115792
+1197,54,Man,Japan,3,Software Engineer,28,9393
+1198,41,Man,Japan,4,Software Engineer,18,99632
+1199,31,Man,USA,5,Research Scientist,3,23959
+1200,22,Man,USA,3,Data Scientist,1,180034
+1201,61,Man,USA,4,Data Scientist,22,143790
+1202,26,Man,USA,4,Data Analyst,2,5297
+1203,33,Woman,USA,4,Data Scientist,18,112618
+1204,29,Man,China,4,Research Scientist,5,43335
+1205,26,Man,China,5,Product Manager,2,679
+1206,42,Man,USA,3,Program/Project Manager,0,66479
+1207,37,Man,USA,5,Software Engineer,20,115187
+1208,63,Man,USA,3,Machine Learning Engineer,28,188264
+1209,37,Man,USA,3,Other,0.5,66395
+1210,31,Man,USA,2,Other,0.5,43707
+1211,36,Man,USA,3,Data Analyst,5,196
+1212,57,Man,USA,5,Other,20,370637
+1213,57,Man,USA,4,Other,2,2019
+1214,66,Man,USA,2,Software Engineer,27,135724
+1215,40,Man,USA,5,Data Scientist,18,166902
+1216,59,Man,USA,3,Data Engineer,25,884
+1217,27,Woman,Japan,0,Other,0.5,5129
+1218,44,Man,Japan,5,Research Scientist,10,70553
+1219,60,Man,USA,4,Other,11,272713
+1220,48,Man,USA,3,Data Scientist,12,159386
+1221,53,Man,USA,5,Research Scientist,15,65187
+1222,22,Man,USA,3,Business Analyst,5,93466
+1223,53,Woman,USA,5,Software Engineer,7,126638
+1224,69,Man,Japan,3,Software Engineer,0.5,60917
+1225,27,Man,China,3,Software Engineer,3,13792
+1226,25,Man,China,3,Data Engineer,9,1468
+1227,36,Man,USA,4,Software Engineer,17,148172
+1228,66,Prefer not to say,USA,5,Other,5,149360
+1229,50,Man,Japan,4,Data Scientist,26,99052
+1230,50,Man,USA,5,Research Scientist,4,423
+1231,28,Man,USA,4,Software Engineer,2,86840
+1232,22,Man,China,3,Data Analyst,4,916
+1233,51,Man,South Korea,5,Program/Project Manager,2,947
+1234,54,Man,Japan,0,Other,22,2818
+1235,36,Woman,USA,5,Statistician,16,21816
+1236,32,Man,USA,4,Product Manager,8,58872
+1237,47,Man,USA,4,Software Engineer,26,156277
+1238,50,Man,USA,3,Other,0,51791
+1239,64,Man,USA,4,Data Scientist,23,153967
+1240,23,Nonbinary,USA,2,Other,0.5,43959
+1241,25,Man,South Korea,4,Machine Learning Engineer,1,25873
+1242,24,Man,USA,4,Data Analyst,2,82524
+1243,44,Woman,USA,4,Data Analyst,5,72865
+1244,25,Man,Japan,5,Data Scientist,0.5,48846
+1245,69,Man,Japan,2,Software Engineer,24,8964
+1246,54,Man,USA,3,Other,21,107437
+1247,58,Man,USA,5,Research Scientist,23,218749
+1248,22,Prefer not to say,China,4,Machine Learning Engineer,3,707
+1249,25,Man,USA,4,Data Scientist,4,107598
+1250,68,Man,USA,3,Software Engineer,8,41512
+1251,47,Man,USA,4,DBA/Database Engineer,12,91447
+1252,19,Man,China,1,Other,1,199
+1253,48,Man,USA,4,Program/Project Manager,28,195314
+1254,22,Man,China,3,Machine Learning Engineer,0.5,328
+1255,54,Man,USA,5,Data Scientist,22,211162
+1256,39,Man,Japan,2,Other,2,3690
+1257,20,Man,China,4,Data Scientist,2,528
+1258,49,Man,USA,5,Research Scientist,26,106
+1259,54,Man,South Korea,5,Data Scientist,22,48902
+1260,27,Man,Japan,0,Software Engineer,1,36294
+1261,44,Man,Japan,3,Data Analyst,5,81195
+1262,28,Prefer not to say,USA,4,Software Engineer,10,490551
+1263,41,Man,USA,5,Data Scientist,6,195168
+1264,23,Man,China,3,Business Analyst,3,19120
+1265,47,Man,USA,4,Other,29,306282
+1266,18,Man,USA,4,Research Scientist,4,55486
+1267,24,Man,USA,4,Machine Learning Engineer,3,126470
+1268,51,Man,USA,4,Data Scientist,24,182126
+1269,33,Man,USA,4,Other,0.5,199203
+1270,26,Man,Japan,4,Other,3,42180
+1271,29,Man,China,4,Software Engineer,5,14466
+1272,41,Man,China,4,Research Scientist,15,32923
+1273,24,Man,USA,3,Data Engineer,8,107247
+1274,51,Man,USA,5,Program/Project Manager,28,134825
+1275,32,Nonbinary,USA,2,Product Manager,0,48886
+1276,35,Man,USA,4,Other,3,330671
+1277,55,Woman,USA,4,Research Scientist,29,80462
+1278,33,Man,China,4,Data Scientist,2,74
+1279,45,Man,China,3,Other,2,53030
+1280,36,Woman,USA,4,Program/Project Manager,0.5,115214
+1281,33,Man,USA,3,Machine Learning Engineer,17,130173
+1282,37,Man,South Korea,5,Machine Learning Engineer,2,66100
+1283,53,Man,USA,2,Software Engineer,15,138078
+1284,28,Woman,Japan,4,Data Scientist,0.5,51801
+1285,31,Man,Japan,4,Business Analyst,3,70629
+1286,55,Woman,USA,2,Other,0,68655
+1287,29,Man,China,3,Software Engineer,5,5263
+1288,70,Man,USA,4,Data Analyst,1,224239
+1289,49,Man,South Korea,2,Software Engineer,16,55302
+1290,44,Woman,USA,5,Data Scientist,3,112158
+1291,37,Man,USA,4,Software Engineer,18,136038
+1292,51,Man,South Korea,4,Research Scientist,25,142958
+1293,26,Man,Japan,5,Research Scientist,3,22434
+1294,27,Man,China,3,Machine Learning Engineer,27,1099868
+1295,68,Man,Japan,4,Research Scientist,23,61165
+1296,55,Man,Japan,3,Program/Project Manager,3,4141
+1297,26,Man,USA,3,Business Analyst,3,63484
+1298,30,Man,USA,5,Research Scientist,2,19070
+1299,61,Man,USA,4,Program/Project Manager,29,447567
+1300,18,Woman,China,3,Software Engineer,3,915
+1301,56,Man,South Korea,3,Program/Project Manager,18,5577
+1302,34,Man,USA,3,Software Engineer,5,97919
+1303,33,Man,USA,5,Research Scientist,9,171786
+1304,29,Woman,USA,3,Data Scientist,0.5,221497
+1305,31,Man,USA,4,Data Scientist,5,97152
+1306,39,Man,USA,5,Data Scientist,17,183628
+1307,39,Man,South Korea,4,Other,5,59651
+1308,53,Man,South Korea,5,Data Analyst,23,87811
+1309,27,Man,USA,4,Software Engineer,6,24361
+1310,43,Man,Japan,4,Software Engineer,12,6000
+1311,31,Woman,Japan,3,Program/Project Manager,0,54978
+1312,42,Man,Japan,4,Other,5,695
+1313,52,Man,USA,5,Research Scientist,3,245477
+1314,67,Woman,USA,3,Other,28,145
+1315,32,Man,Japan,4,Machine Learning Engineer,3,6432
+1316,50,Prefer not to say,USA,5,Data Analyst,11,535
+1317,39,Woman,USA,4,Data Engineer,7,131151
+1318,25,Man,USA,5,Data Analyst,2,17752
+1319,34,Man,China,3,Software Engineer,13,97969
+1320,28,Man,USA,3,Data Scientist,6,144666
+1321,40,Woman,USA,3,Data Analyst,0.5,43585
+1322,30,Woman,USA,4,Data Analyst,3,60821
+1323,64,Man,USA,3,Software Engineer,26,173276
+1324,29,Man,South Korea,3,Machine Learning Engineer,2,123272
+1325,24,Man,Japan,4,Other,3,45060
+1326,24,Woman,USA,3,Software Engineer,5,98642
+1327,26,Man,Japan,3,Machine Learning Engineer,8,50523
+1328,29,Man,China,3,Data Analyst,3,2829
+1329,37,Man,USA,4,Data Analyst,6,172124
+1330,30,Man,Japan,5,Other,3,122025
+1331,32,Man,USA,4,Other,2,76561
+1332,46,Man,USA,5,Research Scientist,20,148975
+1333,42,Man,USA,5,Other,2,51493
+1334,70,Man,Japan,5,Research Scientist,6,91932
+1335,34,Man,USA,4,Product Manager,0,100138
+1336,36,Man,Japan,2,Other,0,120
+1337,46,Man,USA,5,Research Scientist,10,38790
+1338,58,Man,USA,4,Data Scientist,22,396045
+1339,65,Man,USA,5,Statistician,24,732
+1340,27,Man,USA,4,Data Scientist,3,87695
+1341,28,Man,Japan,4,Data Scientist,7,58113
+1342,48,Man,USA,3,Data Analyst,10,68480
+1343,26,Man,USA,4,Data Scientist,0,680
+1344,50,Man,China,5,Statistician,7,18413
+1345,44,Man,USA,3,Developer Relations/Advocacy,13,82058
+1346,33,Man,USA,4,Data Scientist,7,101674
+1347,30,Man,Japan,4,Research Scientist,5,78699
+1348,32,Man,Japan,4,Other,5,49741
+1349,39,Man,Japan,4,Product Manager,8,58
+1350,18,Prefer not to say,China,3,Software Engineer,3,900
+1351,34,Man,USA,4,Data Analyst,3,99847
+1352,33,Nonbinary,USA,3,Data Scientist,5,101302
+1353,46,Man,USA,3,Software Engineer,26,104087
+1354,27,Man,USA,4,Data Scientist,6,165381
+1355,37,Nonbinary,Japan,5,Data Scientist,5,60164
+1356,28,Man,USA,3,Machine Learning Engineer,9,137079
+1357,38,Man,South Korea,5,Research Scientist,3,39004
+1358,22,Man,China,4,Developer Relations/Advocacy,2,3410
+1359,24,Man,Japan,4,Machine Learning Engineer,3,145
+1360,43,Man,USA,4,Other,6,203797
+1361,39,Man,USA,2,Other,3,60862
+1362,42,Man,USA,5,Data Scientist,14,232107
+1363,52,Man,USA,4,Software Engineer,21,164580
+1364,46,Man,USA,4,Software Engineer,24,97839
+1365,28,Man,USA,4,Other,3,209718
+1366,28,Woman,USA,4,Business Analyst,4,8380
+1367,56,Woman,USA,4,Business Analyst,23,88660
+1368,31,Man,Japan,4,Data Scientist,1,58653
+1369,27,Woman,USA,4,Data Analyst,2,50833
+1370,24,Man,China,5,Machine Learning Engineer,1,45537
+1371,57,Man,USA,4,Data Scientist,22,497981
+1372,52,Man,USA,4,Software Engineer,14,119072
+1373,31,Woman,USA,3,Data Scientist,0.5,28084
+1374,34,Man,USA,4,Data Scientist,8,176204
+1375,38,Woman,USA,3,Data Analyst,4,507
+1376,40,Man,USA,4,Software Engineer,12,176761
+1377,39,Man,Japan,4,Program/Project Manager,3,156244
+1378,68,Man,USA,2,Software Engineer,17,54025
+1379,43,Man,China,5,Data Scientist,17,2564
+1380,62,Man,USA,5,Research Scientist,0.5,473569
+1381,26,Man,USA,4,Research Scientist,9,192759
+1382,37,Woman,USA,4,Data Analyst,9,52801
+1383,34,Man,Japan,0,Software Engineer,3,26903
+1384,70,Man,USA,4,Data Scientist,26,210258
+1385,26,Man,USA,4,Product Manager,5,109321
+1386,31,Man,USA,4,Data Scientist,4,116414
+1387,46,Man,USA,5,Software Engineer,27,203755
+1388,27,Man,China,4,Machine Learning Engineer,3,43533
+1389,49,Man,South Korea,4,Data Scientist,13,1297
+1390,44,Woman,Japan,1,Program/Project Manager,14,10558
+1391,42,Man,Japan,4,Program/Project Manager,10,588
+1392,28,Woman,USA,4,Data Engineer,1,813
+1393,32,Man,USA,4,Business Analyst,1,38750
+1394,42,Woman,USA,5,Data Scientist,9,106059
+1395,31,Man,China,5,Research Scientist,5,38469
+1396,36,Woman,USA,3,Other,0.5,55803
+1397,34,Man,USA,4,Data Analyst,1,79717
+1398,25,Woman,USA,5,Research Scientist,10,21726
+1399,48,Man,Japan,4,Program/Project Manager,5,91520
+1400,29,Man,Japan,3,Software Engineer,3,43468
+1401,37,Man,Japan,4,Data Scientist,17,51120
+1402,33,Man,USA,3,Other,5,172178
+1403,22,Man,China,2,Data Analyst,2,82232
+1404,28,Woman,USA,4,Other,0.5,12950
+1405,22,Woman,USA,3,Research Scientist,0.5,41958
+1406,51,Man,USA,3,Software Engineer,24,97575
+1407,50,Man,Japan,5,Data Scientist,27,551
+1408,44,Man,USA,3,DBA/Database Engineer,26,166504
+1409,31,Man,China,4,Data Analyst,3,23390
+1410,18,Man,China,4,Data Analyst,3,138
+1411,49,Man,USA,4,Program/Project Manager,14,203371
+1412,55,Man,USA,5,Research Scientist,29,269266
+1413,47,Man,China,5,Other,0.5,44493
+1414,45,Man,USA,4,Data Scientist,24,183085
+1415,44,Man,USA,3,Software Engineer,27,160995
+1416,53,Man,USA,4,Data Scientist,29,208475
+1417,40,Man,USA,4,Data Engineer,9,147578
+1418,28,Man,USA,3,Other,9,47130
+1419,35,Man,USA,3,Data Engineer,1,118113
+1420,47,Woman,USA,4,Software Engineer,4,120
+1421,34,Man,USA,4,Machine Learning Engineer,14,1040164
+1422,27,Man,Japan,4,Data Analyst,4,4102
+1423,22,Prefer not to say,China,4,Machine Learning Engineer,6,562
+1424,45,Man,USA,4,Business Analyst,0,82970
+1425,32,Woman,USA,5,Other,3,90214
+1426,51,Man,Japan,4,Machine Learning Engineer,29,69523
+1427,26,Man,Japan,4,Software Engineer,1,96522
+1428,55,Woman,USA,4,Business Analyst,4,71983
+1429,44,Man,South Korea,4,Statistician,3,64670
+1430,31,Man,USA,4,Data Analyst,4,82723
+1431,22,Man,China,3,Data Analyst,0.5,10015
+1432,35,Woman,USA,5,Other,0,66776
+1433,42,Man,Japan,4,Business Analyst,6,91418
+1434,53,Man,USA,4,Machine Learning Engineer,27,97796
+1435,29,Man,China,4,Machine Learning Engineer,4,793
+1436,41,Man,USA,4,Other,0.5,141593
+1437,30,Man,China,4,Data Scientist,5,5212
+1438,28,Man,Japan,3,Machine Learning Engineer,1,28234
+1439,30,Man,South Korea,4,Software Engineer,5,6037
+1440,49,Man,USA,4,Other,2,45320
+1441,25,Man,China,5,Data Analyst,2,1817
+1442,54,Man,USA,4,Product Manager,21,147744
+1443,24,Man,China,4,Machine Learning Engineer,4,212873
+1444,33,Man,USA,2,Software Engineer,5,65336
+1445,29,Man,USA,4,Machine Learning Engineer,7,147614
+1446,33,Man,China,3,Data Scientist,12,329
+1447,48,Man,USA,4,Other,1,189019
+1448,31,Man,USA,3,Statistician,19,74749
+1449,48,Man,USA,4,Program/Project Manager,25,48229
+1450,49,Man,Japan,4,Software Engineer,17,926
+1451,55,Man,USA,4,Data Scientist,14,182936
+1452,25,Man,Japan,2,Software Engineer,0.5,4194
+1453,33,Man,China,4,Machine Learning Engineer,4,33883
+1454,26,Man,USA,3,Data Scientist,6,108243
+1455,39,Man,Japan,4,Other,0.5,934
+1456,49,Man,USA,5,Other,0.5,71333
+1457,24,Man,USA,4,Business Analyst,0.5,1343
+1458,47,Man,USA,5,Other,5,292061
+1459,36,Man,USA,4,Product Manager,1,219614
+1460,29,Woman,South Korea,5,Data Scientist,3,203
+1461,48,Woman,USA,2,Data Analyst,0.5,62177
+1462,49,Man,USA,4,Data Scientist,2,131408
+1463,21,Woman,South Korea,1,Data Scientist,0,592
+1464,44,Woman,South Korea,5,Data Scientist,10,30782
+1465,30,Man,USA,3,Other,4,54858
+1466,70,Woman,USA,3,Data Scientist,12,111891
+1467,33,Woman,USA,4,Data Engineer,8,139036
+1468,28,Man,USA,3,Data Analyst,4,72586
+1469,24,Man,USA,4,Data Scientist,3,82806
+1470,58,Woman,USA,4,Other,19,62489
+1471,57,Man,USA,3,Data Analyst,2,46180
+1472,37,Man,USA,2,Product Manager,23,209937
+1473,29,Man,Japan,4,Data Analyst,5,56195
+1474,25,Man,Japan,3,Other,3,28730
+1475,36,Man,USA,5,Other,12,180444
+1476,35,Man,Japan,5,Software Engineer,29,86648
+1477,41,Man,USA,5,Research Scientist,20,60417
+1478,53,Man,USA,3,Data Scientist,27,251570
+1479,26,Man,China,3,Data Analyst,3,30278
+1480,31,Man,USA,4,Data Scientist,9,127667
+1481,34,Man,USA,5,Data Scientist,4,110212
+1482,59,Man,USA,5,Data Scientist,8,124281
+1483,34,Man,South Korea,4,Machine Learning Engineer,4,570
+1484,42,Man,USA,4,Other,19,188662
+1485,60,Man,USA,5,Other,22,125281
+1486,32,Man,USA,4,Business Analyst,2,67170
+1487,28,Man,South Korea,4,Other,10,107612
+1488,35,Man,USA,4,Machine Learning Engineer,7,330440
+1489,30,Man,China,4,Business Analyst,3,1944
+1490,50,Man,South Korea,3,Software Engineer,8,53734
+1491,36,Man,USA,4,Data Engineer,16,98889
+1492,41,Woman,USA,3,Software Engineer,26,65907
+1493,22,Man,USA,3,Data Analyst,1,70645
+1494,36,Man,Japan,4,Machine Learning Engineer,9,51285
+1495,26,Man,China,4,Machine Learning Engineer,5,97485
+1496,47,Man,Japan,4,Developer Relations/Advocacy,7,63979
+1497,33,Man,USA,3,Program/Project Manager,0.5,180370
+1498,56,Man,USA,4,Software Engineer,27,204441
+1499,29,Man,USA,4,Data Scientist,9,118784
+1500,29,Man,Japan,4,Other,3,2936
+1501,31,Man,USA,4,Other,3,12748
+1502,34,Man,South Korea,4,Research Scientist,16,71449
+1503,24,Man,USA,4,Other,0.5,111273
+1504,40,Man,USA,4,Software Engineer,11,99207
+1505,34,Prefer not to say,Japan,5,Other,11,46413
+1506,34,Man,Japan,4,Machine Learning Engineer,9,33281
+1507,67,Prefer not to say,USA,4,Other,6,191945
+1508,27,Man,China,2,Software Engineer,3,5877
+1509,37,Man,USA,4,Data Scientist,27,221623
+1510,26,Man,Japan,1,Software Engineer,2,321
+1511,33,Man,Japan,4,Program/Project Manager,2,66468
+1512,18,Man,China,3,Data Scientist,2,930
+1513,22,Man,China,4,Data Engineer,0.5,6278
+1514,53,Man,USA,4,Data Scientist,7,95603
+1515,42,Man,USA,5,Software Engineer,4,309262
+1516,50,Man,USA,2,Other,0.5,72206
+1517,28,Woman,China,4,Software Engineer,4,13433
+1518,44,Man,Japan,3,DBA/Database Engineer,0.5,56394
+1519,70,Man,USA,4,Other,5,147775
+1520,42,Man,South Korea,3,Software Engineer,20,104454
+1521,28,Man,China,2,Other,0,11413
+1522,38,Man,USA,4,Other,3,65736
+1523,25,Woman,USA,4,Data Scientist,0.5,403
+1524,53,Man,USA,3,Other,25,230359
+1525,30,Man,Japan,5,Data Scientist,5,6137
+1526,40,Woman,USA,4,Data Scientist,7,97848
+1527,30,Man,China,0,Machine Learning Engineer,9,3866
+1528,25,Man,USA,3,Other,0.5,13196
+1529,45,Prefer not to say,Japan,4,Business Analyst,27,51831
+1530,32,Man,USA,4,Software Engineer,5,72794
+1531,28,Man,South Korea,3,Data Scientist,2,25203
+1532,36,Man,South Korea,4,Data Analyst,0.5,44535
+1533,35,Man,USA,5,Data Scientist,15,242478
+1534,39,Man,USA,4,Data Analyst,20,274298
+1535,52,Man,USA,5,Research Scientist,29,130075
+1536,70,Man,USA,4,Product Manager,20,222005
+1537,54,Man,USA,4,Other,3,62083
+1538,41,Man,Japan,4,Product Manager,8,78602
+1539,38,Man,USA,4,Data Scientist,6,154188
+1540,48,Man,China,4,Software Engineer,28,68810
+1541,28,Woman,China,4,Product Manager,0.5,9790
+1542,22,Man,China,3,Machine Learning Engineer,1,954
+1543,40,Man,USA,4,Data Analyst,4,108376
+1544,54,Man,USA,5,Research Scientist,23,166811
+1545,22,Man,USA,2,Machine Learning Engineer,8,112357
+1546,49,Woman,USA,4,Business Analyst,0.5,141247
+1547,36,Man,USA,5,Data Scientist,17,176088
+1548,44,Man,Japan,1,Other,0.5,88614
+1549,33,Man,USA,4,Data Scientist,5,208700
+1550,55,Man,USA,4,DBA/Database Engineer,0,243789
+1551,33,Man,Japan,5,Data Scientist,3,41219
+1552,22,Woman,USA,3,Business Analyst,0,76161
+1553,25,Man,Japan,2,Program/Project Manager,1,832
+1554,60,Prefer not to say,USA,0,Research Scientist,26,267305
+1555,30,Man,USA,4,Software Engineer,13,454
+1556,39,Woman,USA,5,Business Analyst,3,99339
+1557,36,Man,USA,4,Data Scientist,10,134801
+1558,52,Man,Japan,0,Software Engineer,29,48827
+1559,49,Man,South Korea,4,Program/Project Manager,9,4308
+1560,48,Man,Japan,2,Data Analyst,7,63340
+1561,29,Man,USA,4,Data Scientist,9,125182
+1562,70,Man,USA,5,Software Engineer,29,158928
+1563,50,Woman,USA,3,Other,0.5,270
+1564,46,Woman,USA,4,Research Scientist,3,138731
+1565,33,Man,China,2,Data Scientist,3,431
+1566,37,Man,China,3,Other,0.5,237541
+1567,26,Man,USA,3,Statistician,0,75800
+1568,27,Man,Japan,4,Software Engineer,6,58936
+1569,44,Man,China,0,Data Scientist,10,1208
+1570,67,Man,USA,4,Data Analyst,5,61251
+1571,39,Man,China,4,Machine Learning Engineer,13,8679
+1572,59,Woman,Japan,5,Research Scientist,25,7809
+1573,43,Man,USA,5,Data Scientist,12,260662
+1574,31,Man,USA,5,Research Scientist,6,58903
+1575,30,Man,China,5,Machine Learning Engineer,3,45899
+1576,24,Man,Japan,2,Software Engineer,4,36352
+1577,22,Man,USA,3,Data Analyst,0.5,91688
+1578,40,Man,USA,4,Data Scientist,19,127822
+1579,30,Man,USA,4,Data Analyst,10,72579
+1580,37,Woman,USA,5,Data Scientist,3,77221
+1581,25,Man,Japan,4,Data Analyst,0.5,5372
+1582,38,Man,USA,4,Machine Learning Engineer,22,212630
+1583,27,Man,USA,4,Product Manager,4,80782
+1584,40,Prefer not to say,USA,3,Data Analyst,3,63701
+1585,62,Man,USA,3,Program/Project Manager,28,438129
+1586,50,Man,USA,3,Software Engineer,21,410
+1587,27,Woman,USA,3,Other,1,48844
+1588,29,Woman,Japan,3,Other,0.5,35266
+1589,45,Man,South Korea,4,Research Scientist,26,770
+1590,33,Man,China,5,Data Analyst,10,1769
+1591,66,Man,Japan,3,Other,0,95210
+1592,21,Man,South Korea,1,Data Engineer,3,29569
+1593,34,Man,USA,4,Data Analyst,4,72595
+1594,32,Man,China,3,Data Analyst,0,227
+1595,22,Man,USA,3,Data Scientist,4,65320
+1596,29,Man,USA,4,Business Analyst,4,131009
+1597,64,Man,Japan,4,Machine Learning Engineer,22,49026
+1598,40,Woman,USA,5,Research Scientist,20,115137
+1599,38,Nonbinary,USA,4,Other,11,158076
+1600,47,Man,Japan,3,Software Engineer,26,5564
+1601,31,Woman,USA,4,Data Scientist,5,114187
+1602,43,Man,China,1,Business Analyst,3,6355
+1603,39,Man,USA,3,Machine Learning Engineer,7,182270
+1604,34,Man,China,4,Data Scientist,7,52927
+1605,41,Woman,China,5,Data Scientist,7,10859
+1606,48,Man,Japan,4,Software Engineer,23,65035
+1607,24,Man,China,4,Data Analyst,0.5,1720
+1608,54,Man,USA,4,Other,0,103954
+1609,28,Man,USA,4,Business Analyst,3,114623
+1610,29,Man,Japan,4,Data Analyst,0.5,36314
+1611,39,Man,Japan,2,Program/Project Manager,8,452
+1612,40,Man,USA,4,Other,0,75339
+1613,61,Man,USA,4,Software Engineer,22,141637
+1614,43,Man,USA,4,Statistician,18,172386
+1615,43,Man,Japan,5,Data Scientist,0.5,67851
+1616,44,Woman,USA,3,Developer Relations/Advocacy,0.5,459
+1617,44,Man,Japan,4,Research Scientist,2,121174
+1618,57,Man,USA,2,Software Engineer,27,111
+1619,38,Man,USA,4,Data Scientist,10,103647
+1620,28,Man,South Korea,3,Data Engineer,2,31037
+1621,38,Man,China,2,Business Analyst,0.5,890
+1622,23,Man,Japan,3,Data Analyst,1,107069
+1623,50,Woman,USA,4,Data Scientist,1,108556
+1624,35,Man,USA,4,DBA/Database Engineer,2,122835
+1625,47,Man,USA,3,Program/Project Manager,13,190069
+1626,29,Man,Japan,3,Software Engineer,4,2328
+1627,25,Man,China,5,Research Scientist,3,623
+1628,47,Man,USA,4,Other,5,42805
+1629,69,Man,USA,4,Data Analyst,13,80127
+1630,35,Woman,USA,4,Other,0.5,57353
+1631,28,Man,USA,4,Data Scientist,6,188187
+1632,26,Man,Japan,4,Data Analyst,4,58822
+1633,26,Woman,USA,0,Data Analyst,0.5,754
+1634,30,Man,USA,4,Data Scientist,10,108335
+1635,24,Man,USA,4,Machine Learning Engineer,10,99792
+1636,31,Man,Japan,5,Research Scientist,5,41179
+1637,58,Man,USA,4,Data Engineer,21,284034
+1638,43,Man,USA,4,Business Analyst,0.5,73785
+1639,27,Woman,USA,4,Software Engineer,6,84636
+1640,53,Prefer not to say,Japan,4,Other,5,5707
+1641,24,Woman,South Korea,3,Business Analyst,2,4110
+1642,31,Man,USA,5,Data Scientist,11,129283
+1643,39,Man,USA,4,Data Scientist,3,171941
+1644,49,Woman,USA,3,Product Manager,0,9013
+1645,41,Man,Japan,5,Research Scientist,22,72775
+1646,35,Man,USA,5,Statistician,19,167418
+1647,67,Man,Japan,3,Data Scientist,26,4987
+1648,55,Man,Japan,4,Research Scientist,4,61095
+1649,55,Man,USA,3,Other,0.5,72839
+1650,26,Man,Japan,4,Research Scientist,5,51342
+1651,44,Man,USA,5,Data Scientist,11,124124
+1652,39,Man,South Korea,3,Other,1,85823
+1653,31,Woman,USA,4,Program/Project Manager,5,124903
+1654,24,Man,China,4,Machine Learning Engineer,5,74933
+1655,29,Woman,USA,4,Data Scientist,6,171194
+1656,26,Man,USA,4,Data Scientist,10,259
+1657,22,Man,USA,3,Data Analyst,4,70623
+1658,39,Man,Japan,0,Program/Project Manager,10,66744
+1659,29,Man,USA,4,Business Analyst,0,2865
+1660,52,Woman,USA,4,Data Analyst,5,95650
+1661,30,Man,USA,4,Data Analyst,10,92566
+1662,34,Man,USA,5,Machine Learning Engineer,1,154474
+1663,43,Man,USA,4,Business Analyst,4,106169
+1664,70,Man,USA,4,Other,12,28407
+1665,44,Man,USA,4,Data Engineer,14,170605
+1666,30,Man,USA,3,Other,3,75913
+1667,48,Man,Japan,3,Software Engineer,18,56440
+1668,39,Man,USA,4,Data Scientist,10,192746
+1669,53,Prefer not to say,USA,5,Data Scientist,28,451
+1670,47,Man,Japan,3,Software Engineer,10,365
+1671,64,Man,USA,4,Program/Project Manager,20,118480
+1672,37,Woman,USA,5,Other,20,95947
+1673,21,Woman,South Korea,1,Machine Learning Engineer,0.5,4400
+1674,38,Man,USA,5,Data Scientist,5,281909
+1675,64,Man,USA,4,Other,20,119717
+1676,30,Woman,USA,3,Business Analyst,0.5,121597
+1677,33,Man,USA,4,Data Scientist,5,170793
+1678,38,Man,USA,5,Research Scientist,9,122420
+1679,42,Man,USA,4,Data Scientist,6,90006
+1680,24,Woman,USA,4,Data Analyst,0.5,649
+1681,29,Man,South Korea,4,Data Scientist,3,1934
+1682,39,Man,China,3,Software Engineer,17,59122
+1683,28,Woman,South Korea,3,Data Scientist,0.5,4436
+1684,36,Man,Japan,3,Data Scientist,7,9046
+1685,37,Woman,USA,4,Data Engineer,7,59850
+1686,36,Woman,USA,2,Other,0,62851
+1687,35,Man,Japan,3,Statistician,0,5986
+1688,21,Man,China,2,Data Analyst,0.5,669
+1689,56,Man,Japan,3,Program/Project Manager,23,118440
+1690,69,Man,USA,4,Data Engineer,3,84287
+1691,34,Man,South Korea,4,Data Analyst,5,50753
+1692,47,Man,USA,5,Data Scientist,24,203128
+1693,32,Woman,USA,4,Machine Learning Engineer,3,111929
+1694,40,Man,Japan,2,Software Engineer,7,7840
+1695,41,Man,Japan,0,Developer Relations/Advocacy,19,51382
+1696,56,Man,Japan,4,Data Scientist,22,138429
+1697,24,Man,USA,3,Other,3,51061
+1698,30,Man,China,4,Data Scientist,1,2438
+1699,51,Man,South Korea,3,Program/Project Manager,26,61589
+1700,47,Man,USA,4,Data Engineer,28,128343
+1701,33,Man,China,4,Data Scientist,5,53090
+1702,39,Man,USA,4,Software Engineer,1,62210
+1703,19,Man,China,3,Data Analyst,1,399
+1704,23,Man,China,3,Data Engineer,3,2811
+1705,43,Man,China,0,Business Analyst,27,19513
+1706,44,Woman,Japan,4,Other,0.5,3072
+1707,39,Man,USA,5,Research Scientist,11,161498
+1708,45,Man,USA,5,Other,0,109441
+1709,31,Woman,USA,4,Program/Project Manager,0,108946
+1710,31,Woman,USA,4,Data Scientist,0.5,94597
+1711,33,Man,USA,3,Data Engineer,6,164980
+1712,20,Man,China,3,Statistician,3,893
+1713,35,Man,USA,5,Other,5,56627
+1714,31,Man,Japan,4,Software Engineer,6,147471
+1715,59,Man,USA,5,Machine Learning Engineer,25,420704
+1716,46,Man,South Korea,2,Research Scientist,12,10309
+1717,38,Man,USA,4,Data Analyst,15,900
+1718,30,Man,Japan,4,Data Scientist,5,55537
+1719,40,Man,USA,2,Software Engineer,14,881
+1720,45,Man,USA,4,Software Engineer,22,176268
+1721,25,Man,South Korea,4,Data Analyst,3,3859
+1722,31,Man,South Korea,4,Machine Learning Engineer,3,737
+1723,34,Man,USA,4,Business Analyst,8,165529
+1724,25,Woman,China,4,Machine Learning Engineer,3,278
+1725,20,Man,China,2,Data Engineer,1,975
+1726,51,Man,USA,4,Data Scientist,10,244991
+1727,44,Man,USA,4,Data Scientist,8,126853
+1728,66,Man,USA,3,Data Analyst,5,214808
+1729,22,Man,China,4,Data Analyst,0.5,993
+1730,67,Man,Japan,4,Data Scientist,10,70933
+1731,31,Woman,USA,3,Software Engineer,4,23088
+1732,25,Woman,USA,3,Data Analyst,3,31435
+1733,62,Woman,USA,3,Business Analyst,21,677
+1734,30,Man,USA,5,Data Analyst,1,14827
+1735,47,Man,USA,3,Other,8,37654
+1736,24,Man,USA,3,Research Scientist,4,24008
+1737,34,Man,Japan,4,Data Analyst,0.5,6736
+1738,41,Man,USA,4,Other,26,50057
+1739,27,Man,USA,3,Business Analyst,4,101133
+1740,24,Man,USA,4,Other,1,117539
+1741,39,Man,USA,4,Machine Learning Engineer,17,354513
+1742,24,Man,China,3,Machine Learning Engineer,5,54766
+1743,22,Woman,China,4,Data Analyst,0.5,1943
+1744,41,Man,USA,4,Data Scientist,15,427930
+1745,36,Man,USA,4,Business Analyst,22,1089348
+1746,65,Man,Japan,2,Software Engineer,28,738
+1747,34,Man,Japan,4,Machine Learning Engineer,6,117958
+1748,27,Man,Japan,4,Other,0.5,44947
+1749,43,Woman,USA,5,Data Scientist,25,190666
+1750,29,Man,USA,3,Data Engineer,5,69805
+1751,25,Man,USA,3,Machine Learning Engineer,5,16253
+1752,47,Man,Japan,3,Data Analyst,0,5697
+1753,24,Man,USA,3,Data Analyst,7,58725
+1754,34,Man,USA,3,Data Scientist,10,129322
+1755,65,Man,USA,5,Other,23,196515
+1756,47,Man,Japan,4,Software Engineer,12,47137
+1757,29,Man,Japan,4,Data Analyst,3,65036
+1758,49,Man,USA,3,Business Analyst,16,183753
+1759,44,Man,USA,4,Business Analyst,4,38458
+1760,47,Man,Japan,4,Product Manager,5,1239
+1761,62,Man,USA,4,Other,9,5296
+1762,23,Woman,USA,3,Data Analyst,3,81293
+1763,43,Man,USA,5,Other,8,237209
+1764,28,Man,Japan,4,Statistician,1,36508
+1765,62,Man,USA,4,Machine Learning Engineer,27,727
+1766,29,Woman,USA,4,Data Analyst,5,72816
+1767,30,Man,China,4,Business Analyst,5,27176
+1768,53,Woman,USA,4,Software Engineer,25,195566
+1769,64,Man,USA,4,Data Analyst,25,108744
+1770,32,Woman,USA,4,Data Analyst,4,114883
+1771,31,Man,China,0,Data Analyst,0.5,1205
+1772,39,Man,South Korea,5,Data Scientist,7,115404
+1773,50,Man,USA,5,Data Scientist,21,234101
+1774,30,Man,USA,3,Data Scientist,9,129637
+1775,20,Man,China,3,Business Analyst,1,219
+1776,24,Woman,China,4,Data Analyst,0.5,916
+1777,38,Man,USA,4,Machine Learning Engineer,1,66066
+1778,40,Man,Japan,4,Product Manager,0.5,121379
+1779,30,Woman,USA,3,Data Analyst,2,71577
+1780,25,Man,South Korea,2,Machine Learning Engineer,0.5,24923
+1781,55,Man,USA,3,Other,3,133296
+1782,48,Man,Japan,5,Program/Project Manager,3,95445
+1783,57,Man,USA,4,Other,22,957
+1784,55,Woman,USA,5,Software Engineer,22,2092
+1785,56,Woman,Japan,4,Data Engineer,23,272
+1786,48,Man,Japan,3,Machine Learning Engineer,24,75972
+1787,26,Man,USA,3,Data Analyst,2,108428
+1788,23,Man,USA,3,Data Scientist,4,139865
+1789,41,Man,USA,2,Machine Learning Engineer,0,51009
+1790,61,Man,USA,4,Data Analyst,10,414
+1791,34,Woman,USA,5,Research Scientist,3,57993
+1792,48,Woman,USA,4,Data Analyst,0,60845
+1793,46,Man,USA,2,Other,0.5,41645
+1794,30,Man,Japan,4,Other,1,559
+1795,31,Man,China,4,Data Engineer,20,4763
+1796,25,Man,China,4,Software Engineer,10,3250
+1797,39,Woman,USA,4,Data Scientist,5,190861
+1798,22,Man,USA,3,Other,0.5,57959
+1799,24,Man,China,3,Data Analyst,2,1554
+1800,35,Woman,USA,4,Data Scientist,0.5,116284
+1801,70,Man,USA,5,Data Analyst,3,5293
+1802,55,Man,South Korea,2,Program/Project Manager,0,89752
+1803,34,Man,China,5,Research Scientist,11,99823
+1804,23,Man,USA,4,Data Analyst,5,77751
+1805,31,Man,China,2,Machine Learning Engineer,14,31156
+1806,60,Man,USA,4,Program/Project Manager,22,220489
+1807,65,Man,USA,5,Data Scientist,12,83857
+1808,51,Man,USA,1,Data Analyst,4,91902
+1809,41,Man,Japan,3,Software Engineer,14,63148
+1810,34,Man,USA,4,Software Engineer,2,70336
+1811,32,Woman,China,5,Data Scientist,3,6961
+1812,23,Man,USA,4,Business Analyst,9,85482
+1813,27,Man,USA,3,Business Analyst,0.5,165
+1814,43,Man,Japan,5,Research Scientist,9,105674
+1815,50,Man,Japan,5,Research Scientist,29,98462
+1816,25,Man,China,3,Data Analyst,2,24696
+1817,42,Woman,USA,4,Data Analyst,0,33566
+1818,46,Man,USA,3,Other,29,70703
+1819,27,Woman,USA,4,Data Analyst,0,6804
+1820,36,Woman,USA,4,Data Scientist,13,127709
+1821,42,Woman,South Korea,3,Other,0,1004799
+1822,66,Man,USA,3,Other,2,129916
+1823,52,Woman,USA,3,Program/Project Manager,0,107891
+1824,32,Man,USA,3,Data Analyst,0,75494
+1825,59,Man,USA,4,Machine Learning Engineer,21,270666
+1826,25,Man,Japan,0,Data Scientist,3,534
+1827,33,Man,USA,4,Other,5,67132
+1828,35,Woman,USA,4,Data Analyst,0.5,85927
+1829,68,Man,USA,3,Other,10,48460
+1830,28,Man,South Korea,2,Data Scientist,3,72
+1831,43,Woman,USA,4,Data Scientist,3,47687
+1832,37,Man,USA,3,Data Scientist,7,105526
+1833,28,Man,USA,4,Data Analyst,1,870
+1834,36,Man,USA,4,Data Scientist,2,109643
+1835,48,Man,USA,4,Product Manager,7,312759
+1836,30,Man,USA,4,Software Engineer,23,174858
+1837,44,Woman,USA,4,Program/Project Manager,12,672
+1838,32,Prefer not to say,USA,3,Data Engineer,7,166901
+1839,40,Man,South Korea,4,Research Scientist,4,8803
+1840,64,Man,USA,4,Other,12,78930
+1841,30,Woman,USA,4,Software Engineer,4,93746
+1842,52,Man,South Korea,1,Program/Project Manager,11,46389
+1843,25,Man,South Korea,5,Software Engineer,0.5,62
+1844,28,Man,Japan,3,Software Engineer,5,55424
+1845,35,Man,USA,0,Machine Learning Engineer,13,132914
+1846,34,Man,USA,4,Data Scientist,10,121311
+1847,26,Man,Japan,4,Other,0.5,46664
+1848,37,Man,USA,5,Research Scientist,13,118837
+1849,40,Man,China,3,Software Engineer,18,45701
+1850,31,Man,USA,3,Product Manager,10,109650
+1851,47,Man,USA,3,Data Scientist,3,69320
+1852,28,Man,South Korea,3,Data Scientist,5,2781
+1853,29,Man,USA,2,Data Analyst,1,71966
+1854,28,Woman,South Korea,4,Machine Learning Engineer,3,105
+1855,24,Man,USA,4,Data Scientist,0.5,11073
+1856,34,Man,USA,3,Other,0.5,59142
+1857,54,Man,USA,4,Other,2,30163
+1858,28,Man,USA,2,Program/Project Manager,0.5,82301
+1859,67,Man,Japan,3,Program/Project Manager,1,193310
+1860,29,Man,USA,4,Research Scientist,5,193843
+1861,25,Man,USA,3,Data Analyst,1,19971
+1862,33,Woman,USA,5,Data Scientist,11,135351
+1863,59,Woman,USA,4,Data Scientist,21,206209
+1864,32,Man,Japan,4,Data Analyst,0.5,4094
+1865,27,Man,South Korea,3,Machine Learning Engineer,5,32209
+1866,42,Man,USA,5,Research Scientist,29,141459
+1867,39,Man,Japan,4,Data Engineer,3,40086
+1868,59,Man,USA,3,Developer Relations/Advocacy,0,117568
+1869,24,Man,USA,4,Data Scientist,9,198640
+1870,47,Man,South Korea,5,Data Scientist,23,99163
+1871,26,Woman,USA,4,Data Analyst,2,72589
+1872,59,Man,USA,2,Data Scientist,23,145987
+1873,49,Man,USA,4,Data Scientist,10,154593
+1874,44,Man,USA,5,Research Scientist,19,96222
+1875,47,Woman,Japan,4,Research Scientist,0.5,4746
+1876,35,Man,USA,5,Software Engineer,16,113517
+1877,27,Man,USA,4,Business Analyst,0.5,24138
+1878,27,Man,China,4,Data Analyst,0.5,1610
+1879,25,Man,USA,4,Program/Project Manager,7,173241
+1880,32,Man,South Korea,5,Research Scientist,6,84678
+1881,24,Man,China,2,Data Analyst,3,7105
+1882,32,Man,USA,5,Data Scientist,18,108377
+1883,52,Man,Japan,5,Software Engineer,28,5030
+1884,29,Man,USA,4,Machine Learning Engineer,3,164132
+1885,28,Nonbinary,China,1,Software Engineer,1,721
+1886,65,Man,USA,5,Research Scientist,20,75931
+1887,45,Man,Japan,4,Research Scientist,23,121622
+1888,26,Man,USA,4,Data Engineer,5,109518
+1889,23,Woman,China,4,Data Analyst,0.5,280
+1890,59,Man,USA,3,Program/Project Manager,26,129097
+1891,54,Woman,USA,3,Business Analyst,0,79165
+1892,44,Man,Japan,3,Business Analyst,2,79560
+1893,49,Man,USA,4,Other,19,145771
+1894,40,Woman,South Korea,0,Research Scientist,0.5,64003
+1895,54,Man,South Korea,5,Research Scientist,24,66348
+1896,56,Man,USA,4,Program/Project Manager,21,142212
+1897,49,Woman,USA,4,Research Scientist,0.5,73943
+1898,38,Man,USA,4,Data Engineer,19,143286
+1899,41,Man,USA,3,Machine Learning Engineer,10,133103
+1900,34,Man,USA,5,Machine Learning Engineer,7,122458
+1901,43,Man,USA,4,Program/Project Manager,0.5,149173
+1902,52,Man,USA,2,Data Engineer,17,54629
+1903,32,Man,USA,4,Data Scientist,3,199665
+1904,35,Man,USA,4,Data Engineer,3,90894
+1905,52,Man,USA,4,Other,2,82234
+1906,18,Woman,China,2,Data Analyst,1,47
+1907,41,Prefer not to say,USA,5,Machine Learning Engineer,26,260247
+1908,41,Man,USA,3,Data Engineer,10,188720
+1909,40,Man,USA,5,Research Scientist,6,167023
+1910,35,Man,USA,3,Data Scientist,7,53620
+1911,70,Man,USA,5,Research Scientist,5,653
+1912,22,Man,China,3,Data Scientist,0.5,1308
+1913,40,Man,Japan,4,Research Scientist,12,99259
+1914,18,Man,China,3,Data Engineer,0.5,473
+1915,34,Man,USA,4,Program/Project Manager,3,60727
+1916,35,Man,USA,4,Program/Project Manager,0.5,53547
+1917,55,Woman,Japan,2,Software Engineer,26,58665
+1918,34,Man,USA,4,Data Analyst,1,54095
+1919,64,Man,USA,3,Other,2,61721
+1920,48,Man,USA,5,Data Engineer,25,113008
+1921,22,Man,USA,4,Data Analyst,2,37496
+1922,30,Woman,USA,4,Other,0,88132
+1923,45,Woman,USA,3,Data Analyst,27,146285
+1924,28,Man,USA,3,Data Analyst,0.5,11858
+1925,39,Man,USA,5,Other,18,107183
+1926,49,Man,Japan,4,Software Engineer,20,9617
+1927,29,Man,Japan,4,Program/Project Manager,0.5,52635
+1928,56,Man,Japan,3,Other,29,52868
+1929,25,Man,USA,4,Research Scientist,3,67644
+1930,26,Man,South Korea,2,Data Analyst,3,1449
+1931,38,Woman,USA,4,Data Analyst,10,105189
+1932,62,Man,Japan,3,Product Manager,0.5,108
+1933,33,Man,USA,5,Data Scientist,17,259071
+1934,53,Prefer not to say,Japan,2,Statistician,0.5,503
+1935,54,Prefer not to say,USA,3,Other,8,104199
+1936,23,Prefer not to say,Japan,2,Software Engineer,0.5,663
+1937,69,Man,USA,5,Research Scientist,24,324871
+1938,27,Man,USA,3,Data Scientist,5,171556
+1939,28,Man,USA,4,Machine Learning Engineer,3,137
+1940,70,Man,USA,5,Other,2,77504
+1941,36,Man,Japan,5,Research Scientist,11,81799
+1942,19,Prefer not to say,China,4,Product Manager,1,100739
+1943,25,Man,USA,4,Data Scientist,3,94119
+1944,64,Man,USA,4,Statistician,28,116960
+1945,29,Man,China,3,Software Engineer,2,2743
+1946,32,Man,USA,4,Software Engineer,18,125820
+1947,29,Prefer not to say,USA,4,Data Scientist,2,39164
+1948,38,Woman,USA,5,Data Scientist,15,234985
+1949,32,Man,USA,3,Business Analyst,0.5,81275
+1950,44,Man,USA,5,Data Scientist,18,140808
+1951,42,Man,USA,4,Other,3,299482
+1952,21,Prefer not to say,China,3,Data Scientist,2,353
+1953,63,Man,USA,5,Research Scientist,21,43671
+1954,31,Man,USA,4,Other,5,72343
+1955,46,Man,Japan,4,Software Engineer,29,733
+1956,22,Man,South Korea,1,Machine Learning Engineer,10,65920
+1957,25,Man,USA,4,Data Analyst,3,133445
+1958,23,Man,USA,3,Other,0.5,62904
+1959,27,Man,Japan,4,Other,1,96459
+1960,59,Man,Japan,5,Research Scientist,22,88318
+1961,55,Man,USA,3,Other,7,56795
+1962,49,Man,USA,4,Program/Project Manager,1,62653
+1963,39,Man,China,5,Data Scientist,3,148141
+1964,54,Man,USA,2,Software Engineer,22,88874
+1965,57,Man,USA,4,Machine Learning Engineer,22,115697
+1966,52,Woman,USA,4,Data Scientist,29,155584
+1967,52,Man,South Korea,3,Software Engineer,8,536
+1968,23,Man,China,4,Machine Learning Engineer,3,203
+1969,25,Man,USA,4,Data Scientist,9,184066
+1970,28,Man,South Korea,3,Program/Project Manager,4,49579
+1971,38,Man,USA,3,Data Scientist,4,100249
+1972,31,Man,China,3,Business Analyst,8,62120
+1973,19,Man,China,2,Data Analyst,0.5,437
+1974,39,Man,USA,4,Data Scientist,5,85523
+1975,34,Man,China,4,Data Scientist,7,123599
+1976,49,Man,USA,3,Data Engineer,26,494964
+1977,42,Man,Japan,3,Software Engineer,11,83207
+1978,40,Man,USA,4,Data Analyst,5,32454
+1979,31,Man,South Korea,4,Other,13,72105
+1980,52,Man,USA,3,Business Analyst,0,80686
+1981,48,Man,USA,4,Research Scientist,28,156228
+1982,56,Woman,USA,3,Other,17,449
+1983,53,Man,USA,3,DBA/Database Engineer,26,139123
+1984,29,Man,Japan,4,Other,0.5,47464
+1985,26,Man,China,4,Data Engineer,2,17380
+1986,32,Man,South Korea,3,Software Engineer,4,2253
+1987,45,Man,Japan,1,Other,3,296
+1988,28,Woman,USA,4,Data Scientist,6,117948
+1989,43,Woman,USA,4,Other,6,83556
+1990,37,Man,Japan,2,Program/Project Manager,9,56784
+1991,45,Man,Japan,3,Software Engineer,24,45717
+1992,39,Man,USA,4,Data Scientist,5,132915
+1993,40,Man,USA,5,Other,18,133038
+1994,32,Man,USA,4,Data Scientist,9,100997
+1995,34,Man,Japan,3,Program/Project Manager,8,61098
+1996,35,Man,USA,4,Machine Learning Engineer,6,295653
+1997,33,Man,USA,5,Research Scientist,18,249054
+1998,31,Nonbinary,USA,4,Research Scientist,1,24945
+1999,39,Man,USA,4,Data Analyst,3,90490
+2000,45,Man,USA,3,Business Analyst,23,121088
+2001,32,Man,USA,5,Data Scientist,2,117
+2002,38,Man,USA,4,Data Engineer,15,159023
+2003,23,Man,China,5,Data Engineer,0.5,108
+2004,34,Man,USA,5,Data Scientist,12,146720
+2005,24,Woman,USA,3,Research Scientist,1,33675
+2006,22,Man,Japan,4,Data Scientist,4,302
+2007,67,Man,USA,4,Software Engineer,10,144482
+2008,28,Man,USA,4,Data Scientist,3,97182
+2009,51,Man,USA,5,Data Scientist,19,234017
+2010,48,Woman,Japan,5,Data Engineer,4,106413
+2011,34,Man,China,4,Data Analyst,2,23373
+2012,45,Man,Japan,5,Other,4,30584
+2013,42,Man,USA,5,Software Engineer,10,128176
+2014,37,Man,China,3,Software Engineer,13,99418
+2015,40,Man,USA,3,Program/Project Manager,3,195651
+2016,46,Man,USA,4,Business Analyst,3,96168
+2017,37,Man,USA,4,Data Scientist,20,176060
+2018,18,Man,USA,3,Machine Learning Engineer,1,91078
+2019,34,Man,China,4,Product Manager,3,48517
+2020,45,Woman,Japan,3,Data Engineer,13,43810
+2021,44,Man,Japan,5,Data Scientist,13,18547
+2022,32,Man,China,3,Software Engineer,8,93954
+2023,57,Man,USA,5,Data Scientist,15,353680
+2024,22,Man,USA,4,Data Scientist,0,9867
+2025,37,Man,Japan,4,Software Engineer,11,10992
+2026,46,Man,USA,0,Other,19,35879
+2027,31,Man,Japan,4,Other,6,33604
+2028,49,Man,USA,5,Data Scientist,24,179018
+2029,39,Man,USA,4,Other,2,135852
+2030,29,Man,USA,4,Data Analyst,5,52864
+2031,28,Man,USA,5,Data Scientist,3,21693
+2032,27,Woman,USA,4,Data Analyst,1,70206
+2033,52,Man,USA,4,Research Scientist,22,237924
+2034,26,Woman,USA,4,Program/Project Manager,2,45919
+2035,37,Man,Japan,3,Other,8,78344
+2036,41,Man,USA,2,Program/Project Manager,4,217698
+2037,37,Woman,USA,4,Business Analyst,1,72680
+2038,27,Man,USA,4,Data Scientist,5,144251
+2039,32,Woman,USA,5,Data Scientist,19,164274
+2040,70,Man,USA,3,Other,23,73807
+2041,20,Man,China,2,Machine Learning Engineer,2,74
+2042,48,Man,South Korea,1,Data Scientist,29,77553
+2043,37,Man,USA,5,Research Scientist,10,191569
+2044,44,Woman,USA,3,Data Analyst,0,25787
+2045,70,Man,Japan,4,Data Analyst,29,92321
+2046,35,Man,USA,4,Data Analyst,10,84165
+2047,51,Man,USA,4,Program/Project Manager,21,258148
+2048,37,Man,South Korea,3,Data Scientist,3,64375
+2049,29,Woman,USA,4,Other,0.5,62772
+2050,33,Man,Japan,3,Research Scientist,3,5448
+2051,38,Man,Japan,4,Product Manager,0.5,76678
+2052,33,Man,Japan,3,DBA/Database Engineer,9,72937
+2053,36,Man,USA,4,Program/Project Manager,17,697054
+2054,25,Man,China,3,Data Engineer,4,5119
+2055,27,Man,South Korea,3,Data Scientist,5,42388
+2056,56,Man,Japan,1,Data Analyst,4,69606
+2057,36,Man,USA,3,Business Analyst,3,38268
+2058,40,Man,South Korea,5,Data Analyst,2,113835
+2059,36,Woman,USA,5,Data Scientist,15,109354
+2060,26,Woman,USA,3,Software Engineer,5,181100
+2061,36,Woman,USA,4,Data Scientist,1,83232
+2062,42,Man,USA,2,DBA/Database Engineer,4,248
+2063,44,Man,USA,5,Data Scientist,27,216306
+2064,28,Man,USA,4,Data Analyst,5,115292
+2065,46,Prefer not to say,USA,4,Software Engineer,22,136627
+2066,39,Man,USA,3,Other,0,71386
+2067,48,Woman,Japan,3,Software Engineer,8,32113
+2068,33,Man,China,4,Data Engineer,9,49742
+2069,63,Woman,USA,5,Other,0.5,72058
+2070,37,Man,USA,5,Data Scientist,18,126510
+2071,37,Man,USA,4,Software Engineer,19,865452
+2072,28,Woman,USA,4,Software Engineer,1,190
+2073,52,Man,USA,3,Other,5,223824
+2074,38,Nonbinary,Japan,4,Research Scientist,0,4290
+2075,23,Man,USA,4,Data Scientist,1,6380
+2076,26,Man,USA,4,Data Analyst,3,46367
+2077,31,Man,USA,4,Research Scientist,2,82635
+2078,34,Man,USA,4,Other,0,106672
+2079,50,Man,South Korea,3,Other,11,115161
+2080,62,Man,USA,4,Other,22,74773
+2081,39,Man,USA,5,Statistician,5,87826
+2082,26,Man,Japan,3,Product Manager,0.5,59337
+2083,29,Woman,USA,4,Software Engineer,3,6973
+2084,51,Man,USA,5,Research Scientist,10,164756
+2085,47,Man,Japan,5,Program/Project Manager,1,91351
+2086,34,Man,Japan,4,Research Scientist,4,59190
+2087,38,Man,USA,5,Other,2,78289
+2088,45,Man,South Korea,4,Business Analyst,7,129361
+2089,46,Man,USA,2,Other,20,12263
+2090,54,Man,Japan,4,Software Engineer,23,4268
+2091,33,Man,Japan,4,Business Analyst,2,55169
+2092,57,Man,USA,2,Software Engineer,27,149258
+2093,49,Man,South Korea,5,Machine Learning Engineer,20,273854
+2094,18,Prefer to self-describe,China,4,Machine Learning Engineer,1,101
+2095,37,Man,Japan,3,Data Engineer,10,72393
+2096,36,Man,China,4,Data Analyst,3,765
+2097,26,Man,USA,3,Data Scientist,5,139278
+2098,54,Man,USA,5,Research Scientist,25,83468
+2099,46,Man,USA,4,Software Engineer,26,192403
+2100,34,Man,China,3,Data Engineer,5,1590
+2101,46,Man,USA,4,Program/Project Manager,1,91001
+2102,45,Woman,South Korea,5,Data Analyst,0,5552
+2103,61,Man,USA,3,Other,23,20730
+2104,32,Man,USA,4,Data Scientist,10,287692
+2105,36,Man,USA,4,Data Analyst,3,79118
+2106,28,Man,South Korea,3,Data Engineer,0.5,40891
+2107,43,Woman,Japan,1,Research Scientist,5,5282
+2108,27,Man,Japan,4,Statistician,4,57304
+2109,25,Woman,USA,5,Data Scientist,6,147345
+2110,42,Man,USA,3,Other,11,111894
+2111,56,Man,Japan,4,Other,3,89540
+2112,55,Man,Japan,3,Business Analyst,29,14536
+2113,49,Man,USA,4,Data Scientist,10,198479
+2114,59,Man,USA,4,Software Engineer,28,149303
+2115,58,Man,USA,4,Program/Project Manager,5,271171
+2116,34,Man,USA,3,Data Analyst,6,1072752
+2117,33,Woman,USA,3,Data Analyst,1,40010
+2118,50,Man,USA,4,Data Analyst,0,34865
+2119,39,Man,USA,5,Other,19,84821
+2120,47,Man,USA,4,Other,3,324156
+2121,29,Man,China,5,Data Scientist,2,3149
+2122,52,Man,South Korea,3,Business Analyst,6,1605
+2123,22,Woman,China,4,Data Analyst,2,1670
+2124,47,Man,USA,4,Data Analyst,21,120262
+2125,25,Man,China,4,Program/Project Manager,0.5,23546
+2126,29,Man,Japan,3,Software Engineer,3,23413
+2127,59,Man,Japan,4,Software Engineer,14,124212
+2128,29,Man,China,4,Data Analyst,2,2422
+2129,28,Man,China,4,Software Engineer,9,242035
+2130,44,Woman,USA,3,Other,22,106159
+2131,29,Man,China,4,Machine Learning Engineer,1,81392
+2132,45,Man,Japan,4,Other,1,118422
+2133,57,Man,South Korea,5,Machine Learning Engineer,20,101332
+2134,39,Man,USA,5,Data Scientist,18,168899
+2135,27,Man,China,4,Research Scientist,0.5,2821
+2136,37,Man,USA,4,Data Scientist,19,168958
+2137,49,Woman,USA,5,Statistician,5,2776
+2138,30,Man,Japan,4,Other,0.5,871
+2139,26,Woman,USA,4,Data Scientist,3,90676
+2140,22,Woman,USA,3,Software Engineer,5,104859
+2141,37,Man,USA,3,Program/Project Manager,5,87719
+2142,41,Man,Japan,4,Statistician,19,97807
+2143,64,Man,USA,5,Research Scientist,26,70403
+2144,52,Man,USA,4,Data Analyst,0.5,90709
+2145,34,Man,USA,4,Data Engineer,9,119325
+2146,37,Man,USA,4,Data Analyst,5,116931
+2147,48,Woman,Japan,0,Software Engineer,6,2255
+2148,45,Man,Japan,5,Other,3,76218
+2149,29,Man,China,3,DBA/Database Engineer,2,3730
+2150,27,Man,USA,2,Software Engineer,1,99066
+2151,32,Man,USA,4,Machine Learning Engineer,3,880
+2152,34,Man,USA,4,Business Analyst,5,116718
+2153,42,Man,Japan,5,Research Scientist,2,17802
+2154,22,Man,Japan,2,Business Analyst,0.5,49
+2155,29,Man,USA,4,Data Scientist,2,16396
+2156,34,Man,USA,4,Data Analyst,5,68930
+2157,26,Man,USA,4,Data Scientist,10,97992
+2158,65,Woman,USA,3,Developer Relations/Advocacy,20,281732
+2159,24,Woman,USA,4,Data Scientist,2,7386
+2160,44,Man,USA,4,Business Analyst,7,96287
+2161,27,Woman,Japan,3,Other,0.5,10326
+2162,27,Man,USA,4,Data Analyst,3,80569
+2163,33,Man,USA,4,Data Analyst,10,124610
+2164,29,Man,Japan,4,Research Scientist,2,49580
+2165,39,Prefer not to say,USA,5,Data Engineer,7,165394
+2166,33,Man,USA,3,Data Engineer,7,172464
+2167,26,Man,USA,5,Research Scientist,9,102596
+2168,19,Woman,USA,0,Data Scientist,0,706
+2169,25,Woman,USA,3,Product Manager,0.5,145340
+2170,54,Man,USA,4,Other,9,193428
+2171,28,Man,China,0,Data Analyst,3,12923
+2172,40,Man,China,3,Other,3,103662
+2173,29,Man,China,3,Data Engineer,2,2053
+2174,70,Man,USA,4,Data Analyst,0.5,96677
+2175,31,Man,USA,4,Research Scientist,9,166843
+2176,25,Man,Japan,3,Business Analyst,0.5,2010
+2177,70,Man,USA,5,Software Engineer,8,507
+2178,26,Man,South Korea,3,Machine Learning Engineer,5,2804
+2179,53,Woman,USA,4,Other,21,43191
+2180,45,Man,USA,4,Data Scientist,29,399845
+2181,56,Woman,USA,4,Other,2,96843
+2182,48,Man,Japan,2,Software Engineer,7,72031
+2183,25,Woman,China,4,Business Analyst,0.5,21218
+2184,30,Man,South Korea,4,Software Engineer,0.5,34870
+2185,45,Man,USA,4,Data Analyst,7,182017
+2186,48,Man,USA,1,Other,0,110635
+2187,39,Man,South Korea,3,Product Manager,0.5,55258
+2188,65,Man,Japan,5,Business Analyst,6,14830
+2189,70,Man,USA,5,Other,5,56
+2190,36,Man,Japan,3,Software Engineer,19,5459
+2191,42,Man,Japan,4,Data Engineer,13,92625
+2192,45,Man,USA,5,Data Scientist,24,227424
+2193,44,Man,USA,4,Data Analyst,4,77299
+2194,56,Man,Japan,1,Business Analyst,0,513
+2195,25,Man,Japan,3,Business Analyst,0.5,9082
+2196,23,Man,USA,4,Data Scientist,4,5039
+2197,25,Man,China,4,Software Engineer,2,4154
+2198,31,Man,USA,3,Data Scientist,15,128338
+2199,24,Man,USA,4,Other,3,24862
+2200,39,Man,Japan,4,Software Engineer,4,54922
+2201,47,Man,USA,4,Product Manager,26,245909
+2202,48,Woman,USA,4,Data Scientist,13,94447
+2203,25,Woman,South Korea,2,Business Analyst,0.5,658
+2204,51,Man,Japan,2,Software Engineer,19,8506
+2205,28,Man,China,0,Machine Learning Engineer,1,2617
+2206,22,Man,USA,3,Software Engineer,8,119
+2207,26,Man,USA,3,Data Engineer,9,387195
+2208,35,Man,USA,5,Other,17,371169
+2209,48,Woman,USA,4,Data Analyst,2,153620
+2210,48,Man,Japan,4,Business Analyst,0.5,65362
+2211,27,Man,USA,2,Data Engineer,1,6301
+2212,32,Man,USA,5,Research Scientist,20,70535
+2213,47,Man,USA,4,Data Engineer,25,133842
+2214,44,Man,USA,3,Product Manager,15,365514
+2215,26,Man,China,4,Data Scientist,0.5,47114
+2216,40,Man,USA,5,Data Scientist,20,106017
+2217,37,Man,USA,3,Data Engineer,13,107923
+2218,24,Man,China,4,Data Analyst,2,3897
+2219,27,Woman,USA,3,Other,0,23575
+2220,43,Man,USA,0,DBA/Database Engineer,12,26727
+2221,37,Man,Japan,4,Software Engineer,16,64012
+2222,27,Man,Japan,4,Software Engineer,3,3789
+2223,47,Man,Japan,3,Business Analyst,10,10716
+2224,33,Man,China,5,Research Scientist,1,129
+2225,54,Woman,USA,3,Data Analyst,0,42242
+2226,47,Man,USA,5,Software Engineer,21,396529
+2227,29,Man,Japan,4,Data Scientist,0.5,54041
+2228,42,Man,USA,4,Product Manager,14,199497
+2229,34,Man,USA,5,Research Scientist,5,100637
+2230,38,Man,Japan,4,Research Scientist,2,59001
+2231,26,Man,Japan,3,Software Engineer,0.5,55
+2232,45,Man,USA,4,Program/Project Manager,23,223964
+2233,54,Woman,South Korea,4,Software Engineer,10,2729
+2234,25,Man,China,3,Software Engineer,2,71208
+2235,33,Man,USA,3,Data Analyst,10,216680
+2236,26,Man,Japan,4,Machine Learning Engineer,8,78641
+2237,31,Man,USA,5,Research Scientist,8,49991
+2238,45,Man,USA,5,Research Scientist,10,48629
+2239,70,Man,USA,5,Statistician,22,2271
+2240,20,Man,USA,3,Data Scientist,4,24705
+2241,30,Man,South Korea,3,Data Analyst,10,62244
+2242,24,Man,USA,3,Other,0.5,22969
+2243,28,Man,USA,3,Software Engineer,3,73551
+2244,31,Man,USA,4,Data Engineer,10,120198
+2245,31,Man,Japan,4,Data Scientist,0.5,105446
+2246,51,Man,South Korea,4,Other,14,108565
+2247,25,Man,South Korea,4,Machine Learning Engineer,1,52202
+2248,35,Man,USA,3,Program/Project Manager,0,69892
+2249,24,Man,Japan,3,Machine Learning Engineer,3,11812
+2250,32,Man,USA,5,Research Scientist,3,106425
+2251,23,Man,USA,4,Data Scientist,2,83470
+2252,26,Man,China,3,Data Analyst,2,46
+2253,49,Woman,USA,4,Program/Project Manager,3,63950
+2254,19,Man,China,3,Data Analyst,3,577
+2255,33,Man,Japan,3,Business Analyst,0.5,40336
+2256,42,Woman,USA,3,Software Engineer,5,49881
+2257,46,Man,Japan,2,Data Engineer,22,79866
+2258,25,Man,USA,4,Data Engineer,1,144787
+2259,20,Man,USA,3,Data Scientist,1,2425
+2260,27,Woman,China,4,Data Analyst,1,798
+2261,29,Man,Japan,4,Data Analyst,0.5,38102
+2262,22,Man,China,5,Research Scientist,3,29
+2263,31,Man,Japan,4,Statistician,1,87180
+2264,70,Prefer not to say,USA,5,Statistician,28,114483
+2265,54,Man,USA,4,Software Engineer,23,80822
+2266,31,Man,USA,4,Data Scientist,7,491444
+2267,47,Man,USA,4,Software Engineer,27,133803
+2268,42,Man,USA,4,Data Scientist,8,137230
+2269,50,Woman,USA,4,Data Analyst,2,68343
+2270,39,Man,USA,4,Data Scientist,5,111024
+2271,26,Man,Japan,4,Software Engineer,10,6398
+2272,26,Woman,South Korea,4,DBA/Database Engineer,4,3145
+2273,60,Man,Japan,3,Product Manager,4,40717
+2274,48,Woman,USA,4,Other,0,18923
+2275,50,Woman,USA,4,Data Scientist,5,121764
+2276,48,Man,USA,4,Data Analyst,2,113139
+2277,52,Man,USA,2,Data Analyst,3,89397
+2278,31,Man,Japan,4,Data Scientist,4,88569
+2279,51,Man,South Korea,4,Program/Project Manager,23,145110
+2280,25,Man,Japan,5,Data Scientist,20,4416
+2281,24,Man,USA,3,Machine Learning Engineer,5,495
+2282,69,Man,USA,3,DBA/Database Engineer,19,31265
+2283,20,Man,China,4,Data Scientist,3,377
+2284,22,Man,USA,3,Data Scientist,10,85511
+2285,49,Man,USA,2,Data Analyst,5,88402
+2286,35,Man,USA,5,Data Scientist,13,287833
+2287,50,Man,South Korea,4,Program/Project Manager,0.5,10885
+2288,46,Man,South Korea,4,Data Scientist,1,68148
+2289,31,Woman,USA,4,Business Analyst,3,118748
+2290,40,Woman,USA,4,Business Analyst,2,89175
+2291,37,Man,Japan,2,Data Engineer,3,4414
+2292,27,Man,USA,4,Other,1,147950
+2293,37,Man,USA,4,Data Analyst,5,110571
+2294,52,Man,Japan,1,Data Scientist,5,76896
+2295,38,Man,China,3,Data Analyst,14,1694
+2296,51,Man,Japan,1,Software Engineer,28,86926
+2297,37,Man,Japan,5,Data Analyst,5,72511
+2298,48,Man,USA,4,Data Engineer,18,124914
+2299,40,Man,USA,5,Data Scientist,13,1024299
+2300,25,Man,USA,4,Research Scientist,1,34227
+2301,24,Man,China,4,Data Engineer,0.5,1126
+2302,32,Man,Japan,4,Program/Project Manager,6,201
+2303,32,Woman,South Korea,3,Software Engineer,7,64821
+2304,36,Man,USA,4,Data Scientist,8,98137
+2305,35,Woman,Japan,0,Research Scientist,0.5,79855
+2306,54,Man,USA,3,Software Engineer,6,71379
+2307,54,Man,Japan,4,Product Manager,10,14286
+2308,33,Man,Japan,4,Research Scientist,0.5,64436
+2309,58,Man,South Korea,5,Program/Project Manager,1,122009
+2310,29,Man,USA,4,Research Scientist,1,90048
+2311,59,Man,USA,4,Software Engineer,27,167117
+2312,37,Man,USA,3,Product Manager,1,110800
+2313,45,Man,USA,2,Software Engineer,24,126712
+2314,31,Man,China,5,Research Scientist,7,21066
+2315,39,Man,USA,3,Data Scientist,3,881
+2316,36,Man,USA,4,Product Manager,10,182042
+2317,38,Man,USA,4,Other,3,54000
+2318,28,Man,Japan,4,Data Analyst,3,6997
+2319,30,Man,USA,4,Data Scientist,4,81485
+2320,32,Man,USA,3,Other,7,74785
+2321,22,Woman,USA,4,Other,2,51103
+2322,52,Man,Japan,1,Software Engineer,20,63798
+2323,38,Man,Japan,4,Data Scientist,11,91882
+2324,49,Man,USA,4,Research Scientist,13,3693
+2325,44,Woman,USA,5,Data Scientist,5,117583
+2326,34,Man,USA,4,Data Scientist,8,151026
+2327,34,Man,Japan,4,Data Scientist,4,110736
+2328,37,Man,Japan,3,Software Engineer,13,42170
+2329,63,Man,USA,4,Other,0,524
+2330,28,Woman,USA,4,Machine Learning Engineer,9,194668
+2331,25,Woman,USA,5,Research Scientist,0.5,55859
+2332,47,Man,South Korea,4,Other,3,96429
+2333,41,Man,Japan,3,Program/Project Manager,2,9442
+2334,41,Woman,USA,5,Research Scientist,5,948
+2335,60,Man,USA,5,Research Scientist,17,84336
+2336,38,Man,Japan,3,Other,8,821
+2337,36,Man,USA,5,Statistician,17,103261
+2338,36,Prefer not to say,China,3,Data Scientist,12,181275
+2339,39,Man,Japan,4,Other,0.5,38470
+2340,68,Man,USA,4,Other,27,38968
+2341,55,Man,USA,5,Research Scientist,21,272
+2342,56,Woman,USA,3,Program/Project Manager,0,59102
+2343,22,Woman,USA,3,Product Manager,0.5,126275
+2344,28,Man,USA,2,Other,0.5,81048
+2345,25,Man,USA,4,Data Analyst,3,59061
+2346,39,Man,USA,4,Data Scientist,13,241930
+2347,43,Man,Japan,4,Program/Project Manager,12,108526
+2348,47,Man,USA,4,Product Manager,17,107623
+2349,39,Man,USA,3,Data Analyst,6,81386
+2350,29,Man,South Korea,4,Statistician,10,4394
+2351,32,Woman,USA,4,Data Scientist,13,213792
+2352,47,Woman,South Korea,5,Research Scientist,17,84310
+2353,33,Man,South Korea,3,Other,3,28684
+2354,46,Man,Japan,4,Research Scientist,25,64787
+2355,41,Man,USA,5,Data Scientist,25,177357
+2356,24,Man,USA,3,Other,0.5,42392
+2357,30,Woman,USA,4,Data Analyst,4,89579
+2358,30,Man,USA,5,Data Scientist,5,234266
+2359,69,Man,Japan,3,Research Scientist,23,48665
+2360,37,Man,China,4,Data Analyst,0.5,3617
+2361,20,Prefer not to say,China,3,Data Analyst,3,734
+2362,30,Man,USA,4,Business Analyst,1,95799
+2363,25,Man,Japan,4,Research Scientist,0.5,43936
+2364,29,Man,USA,3,Research Scientist,0.5,69696
+2365,34,Man,South Korea,5,Statistician,6,52161
+2366,70,Man,USA,4,Other,17,173443
+2367,42,Man,South Korea,4,Other,5,1250
+2368,27,Man,Japan,4,Software Engineer,3,353
+2369,27,Man,USA,4,Data Scientist,5,89277
+2370,45,Man,Japan,5,Data Scientist,26,51497
+2371,43,Man,USA,5,Other,9,149081
+2372,63,Man,USA,0,Developer Relations/Advocacy,26,247917
+2373,26,Woman,USA,4,Data Scientist,3,179550
+2374,70,Man,USA,4,Data Scientist,18,128992
+2375,36,Man,USA,2,Other,0,57512
+2376,70,Man,China,5,Research Scientist,26,17824
+2377,61,Man,South Korea,5,Program/Project Manager,10,41851
+2378,32,Man,USA,4,Data Analyst,6,124628
+2379,38,Woman,USA,3,Data Scientist,0.5,31109
+2380,41,Man,USA,5,Data Scientist,21,116924
+2381,44,Man,USA,5,Research Scientist,2,321611
+2382,51,Man,Japan,4,Data Engineer,1,4107
+2383,42,Woman,USA,5,Data Scientist,29,106015
+2384,31,Man,USA,5,Research Scientist,7,96556
+2385,50,Man,USA,4,Data Scientist,10,288355
+2386,40,Man,China,3,Business Analyst,0.5,10090
+2387,45,Man,Japan,4,Research Scientist,2,3554
+2388,28,Man,Japan,3,Data Analyst,0.5,290
+2389,67,Man,Japan,5,Program/Project Manager,28,92143
+2390,48,Man,USA,5,Other,0,111796
+2391,33,Man,Japan,3,Other,2,5706
+2392,39,Man,USA,4,Data Scientist,8,100824
+2393,39,Man,USA,3,Software Engineer,8,195788
+2394,18,Man,China,3,Machine Learning Engineer,3,806
+2395,61,Man,USA,3,Program/Project Manager,23,244481
+2396,34,Woman,USA,5,Data Engineer,29,92869
+2397,25,Man,Japan,3,Data Scientist,5,51637
+2398,39,Man,USA,4,Other,10,189421
+2399,46,Man,USA,5,Research Scientist,0.5,4394
+2400,51,Man,Japan,0,Software Engineer,28,121058
+2401,20,Man,China,2,Data Analyst,0.5,1132
+2402,50,Woman,USA,4,Other,0,39862
+2403,26,Man,China,5,Data Scientist,5,499
+2404,48,Man,USA,4,Data Analyst,0.5,68172
+2405,29,Woman,USA,3,Data Analyst,0.5,45452
+2406,25,Man,USA,4,Business Analyst,0.5,992
+2407,36,Man,Japan,4,Software Engineer,17,94838
+2408,31,Man,USA,3,Other,0.5,39350
+2409,43,Man,Japan,3,Program/Project Manager,28,100526
+2410,70,Man,USA,3,Software Engineer,24,101236
+2411,39,Man,South Korea,3,Data Analyst,3,44418
+2412,33,Man,South Korea,2,Data Analyst,3,3360
+2413,30,Man,South Korea,3,Data Analyst,0.5,22748
+2414,54,Man,USA,4,Business Analyst,0,83087
+2415,47,Man,USA,5,Other,15,943153
+2416,57,Woman,USA,3,Program/Project Manager,28,168950
+2417,28,Prefer not to say,China,3,Data Scientist,3,19247
+2418,29,Man,Japan,4,Other,0,28257
+2419,30,Man,China,5,Data Scientist,5,36984
+2420,30,Woman,USA,3,Other,0,40569
+2421,34,Man,Japan,4,Data Scientist,2,7465
+2422,19,Man,USA,3,Machine Learning Engineer,1,181067
+2423,53,Man,USA,5,Other,25,23843
+2424,70,Man,USA,0,Software Engineer,19,133184
+2425,33,Woman,China,5,Machine Learning Engineer,4,3975
+2426,38,Man,Japan,3,Software Engineer,10,228
+2427,30,Man,Japan,4,DBA/Database Engineer,8,426
+2428,58,Man,USA,5,Data Scientist,16,93490
+2429,35,Man,USA,4,Machine Learning Engineer,6,216761
+2430,40,Man,South Korea,0,Business Analyst,0,75328
+2431,25,Man,USA,4,Software Engineer,11,1026839
+2432,25,Man,USA,3,Data Engineer,4,68129
+2433,33,Man,Japan,1,Software Engineer,3,59526
+2434,26,Woman,USA,4,Data Analyst,9,77313
+2435,39,Woman,USA,3,Other,0.5,51838
+2436,46,Man,USA,3,Data Engineer,22,139619
+2437,39,Man,USA,4,Data Engineer,2,2781
+2438,30,Man,USA,5,Research Scientist,7,25918
+2439,25,Man,South Korea,3,Statistician,1,936
+2440,30,Man,Japan,5,Research Scientist,2,54446
+2441,30,Man,China,4,Other,2,20311
+2442,66,Man,USA,4,Program/Project Manager,21,133195
+2443,44,Woman,South Korea,0,Software Engineer,12,42
+2444,33,Man,China,3,Product Manager,2,33619
+2445,43,Man,USA,4,Program/Project Manager,0,40589
+2446,43,Man,USA,3,Data Scientist,7,104283
+2447,28,Woman,Japan,4,Other,1,35785
+2448,55,Man,USA,4,Data Scientist,21,165180
+2449,63,Prefer not to say,USA,5,Other,26,456442
+2450,34,Man,Japan,4,Other,1,134
+2451,26,Man,USA,4,Data Engineer,5,91593
+2452,24,Woman,USA,4,Data Analyst,0.5,804
+2453,52,Man,USA,4,Software Engineer,23,233005
+2454,29,Woman,China,4,Machine Learning Engineer,0.5,858
+2455,54,Man,Japan,4,Software Engineer,27,75953
+2456,27,Man,China,0,Software Engineer,2,1618
+2457,51,Woman,USA,3,Other,0,27261
+2458,32,Man,USA,3,Data Scientist,6,123820
+2459,32,Man,Japan,4,Research Scientist,2,54581
+2460,67,Woman,USA,4,Product Manager,2,85765
+2461,32,Man,China,4,Data Analyst,3,1460
+2462,32,Man,Japan,4,Data Scientist,1,34022
+2463,26,Man,USA,3,Software Engineer,8,114193
+2464,24,Man,USA,4,Machine Learning Engineer,4,36764
+2465,53,Man,Japan,4,Data Scientist,5,653
+2466,49,Man,USA,4,Data Analyst,23,110765
+2467,44,Woman,USA,3,Other,0,27766
+2468,29,Man,USA,4,Data Analyst,1,72920
+2469,28,Man,Japan,4,Data Analyst,1,3978
+2470,36,Man,USA,5,Data Scientist,28,127421
+2471,69,Man,USA,2,Data Analyst,25,943
+2472,27,Woman,USA,3,Data Scientist,6,166752
+2473,43,Man,USA,4,Data Scientist,18,114449
+2474,37,Man,South Korea,2,Business Analyst,0,34270
+2475,49,Man,USA,5,Research Scientist,8,97963
+2476,30,Man,China,5,Data Scientist,3,47931
+2477,28,Man,USA,4,Other,4,130755
+2478,59,Man,Japan,1,Software Engineer,28,93606
+2479,50,Woman,USA,3,Data Analyst,20,123285
+2480,46,Man,USA,4,Data Scientist,20,168998
+2481,66,Nonbinary,USA,4,Program/Project Manager,22,101152
+2482,41,Man,Japan,4,Software Engineer,17,56361
+2483,34,Man,USA,4,Data Scientist,9,144793
+2484,26,Man,USA,4,Data Analyst,5,96284
+2485,65,Man,USA,4,Machine Learning Engineer,2,89535
+2486,33,Man,USA,4,Machine Learning Engineer,4,473912
+2487,29,Man,USA,5,Data Scientist,18,128374
+2488,51,Man,South Korea,5,Other,26,5160
+2489,49,Woman,USA,3,Data Engineer,13,984
+2490,43,Man,Japan,3,Software Engineer,10,55121
+2491,27,Man,China,2,Machine Learning Engineer,3,384
+2492,22,Man,USA,4,Machine Learning Engineer,5,19
+2493,23,Man,USA,4,Data Engineer,1,5080
+2494,23,Man,USA,4,Data Analyst,1,67921
+2495,41,Man,Japan,4,Data Scientist,21,68673
+2496,30,Woman,Japan,3,Software Engineer,6,55702
+2497,51,Woman,USA,4,Data Analyst,0,75548
+2498,45,Man,USA,4,Data Analyst,22,139422
+2499,32,Man,USA,4,Data Scientist,7,119424
+2500,34,Man,USA,3,Software Engineer,7,98832
+2501,49,Woman,USA,4,Other,0.5,89281
+2502,57,Man,USA,2,Software Engineer,27,117919
+2503,31,Woman,USA,5,Data Scientist,10,180286
+2504,55,Man,South Korea,5,Program/Project Manager,22,129940
+2505,47,Man,USA,4,Data Scientist,23,134636
+2506,18,Man,China,3,Data Analyst,3,3288
+2507,70,Man,USA,3,Statistician,29,307
+2508,42,Woman,USA,5,Research Scientist,18,3069
+2509,56,Man,USA,5,Research Scientist,26,143868
+2510,25,Man,Japan,4,Research Scientist,1,909
+2511,70,Man,Japan,5,Research Scientist,26,291
+2512,24,Woman,USA,4,Software Engineer,4,121
+2513,55,Man,USA,5,Data Scientist,3,430874
+2514,30,Man,USA,4,Machine Learning Engineer,8,208248
+2515,20,Man,USA,2,Research Scientist,1,548404
+2516,61,Man,USA,4,Business Analyst,0,40228
+2517,28,Man,Japan,1,Software Engineer,7,4709
+2518,58,Man,USA,4,Program/Project Manager,16,147161
+2519,23,Man,China,4,Data Analyst,3,45976
+2520,33,Man,Japan,1,Data Analyst,0.5,4218
+2521,31,Man,Japan,4,Software Engineer,7,79272
+2522,42,Man,USA,5,Other,17,220299
+2523,39,Man,USA,4,Data Scientist,16,451947
+2524,25,Man,China,3,Machine Learning Engineer,6,49372
+2525,41,Woman,Japan,4,Data Scientist,1,422
+2526,54,Man,USA,3,Other,0,79866
+2527,26,Man,USA,4,Data Analyst,4,68566
+2528,22,Prefer not to say,China,4,Machine Learning Engineer,2,939
+2529,46,Man,Japan,4,Product Manager,4,7913
+2530,28,Man,Japan,4,Software Engineer,9,36076
+2531,35,Woman,USA,5,Data Scientist,12,133701
+2532,32,Man,China,3,Data Analyst,5,22910
+2533,45,Man,South Korea,3,Product Manager,0.5,57659
+2534,33,Man,USA,3,Other,0.5,30692
+2535,24,Man,China,4,Program/Project Manager,1,1018524
+2536,36,Man,Japan,3,Research Scientist,0.5,51609
+2537,28,Man,China,4,Data Analyst,0.5,21590
+2538,45,Man,South Korea,3,Data Engineer,8,67370
+2539,47,Man,Japan,4,Machine Learning Engineer,24,13481
+2540,25,Woman,USA,4,Data Scientist,2,639
+2541,31,Prefer not to say,USA,4,Data Engineer,5,112291
+2542,49,Man,USA,4,Data Analyst,17,115195
+2543,41,Man,USA,4,Other,23,244640
+2544,36,Woman,South Korea,4,Data Analyst,18,94827
+2545,26,Woman,USA,4,Business Analyst,4,84052
+2546,30,Man,South Korea,4,Other,0.5,8996
+2547,36,Man,USA,5,Machine Learning Engineer,22,655985
+2548,46,Man,USA,4,Software Engineer,26,228569
+2549,33,Woman,USA,3,Other,0.5,30291
+2550,32,Man,Japan,3,Data Engineer,3,37211
+2551,34,Man,USA,5,Program/Project Manager,4,89955
+2552,29,Man,USA,3,Software Engineer,3,87740
+2553,68,Man,Japan,3,Software Engineer,23,588
+2554,35,Woman,USA,4,Data Scientist,7,83611
+2555,31,Man,Japan,4,Data Scientist,6,80120
+2556,35,Man,USA,3,Data Scientist,0.5,57820
+2557,30,Woman,USA,5,Research Scientist,2,88778
+2558,27,Man,USA,2,Software Engineer,5,84877
+2559,47,Man,Japan,4,Other,2,73030
+2560,54,Man,Japan,4,Data Scientist,25,55492
+2561,69,Man,USA,3,Program/Project Manager,20,116805
+2562,62,Man,USA,4,Data Scientist,5,192454
+2563,29,Man,China,4,Software Engineer,7,185100
+2564,32,Man,Japan,5,Research Scientist,0.5,60624
+2565,68,Man,USA,4,Other,27,198833
+2566,25,Man,USA,4,Business Analyst,2,52771
+2567,39,Man,USA,5,Data Scientist,13,165578
+2568,35,Prefer not to say,USA,4,Machine Learning Engineer,2,31
+2569,40,Man,USA,4,Data Analyst,8,91395
+2570,46,Man,USA,5,Data Scientist,13,166174
+2571,27,Man,USA,5,Research Scientist,5,194128
+2572,38,Woman,USA,4,Program/Project Manager,0,55655
+2573,58,Man,South Korea,2,Other,0.5,99470
+2574,32,Man,USA,4,Data Analyst,3,60713
+2575,48,Man,USA,4,Other,20,117281
+2576,46,Man,USA,3,Data Scientist,10,192366
+2577,29,Man,Japan,4,Data Engineer,3,3829
+2578,27,Man,USA,4,Other,3,21234
+2579,35,Man,USA,4,Data Analyst,27,63010
+2580,34,Man,South Korea,5,Data Scientist,5,120884
+2581,33,Man,China,5,Research Scientist,3,225
+2582,47,Man,USA,5,Research Scientist,23,395305
+2583,28,Man,USA,4,Data Scientist,8,21720
+2584,28,Man,China,4,Other,0.5,51901
+2585,47,Man,Japan,4,Other,3,69035
+2586,59,Man,USA,4,Data Analyst,6,88699
+2587,56,Man,USA,3,Software Engineer,24,142260
+2588,48,Man,USA,4,Business Analyst,8,28572
+2589,40,Woman,USA,3,Machine Learning Engineer,0.5,509
+2590,33,Man,China,3,Business Analyst,3,4046
+2591,55,Woman,USA,4,DBA/Database Engineer,25,114
+2592,24,Woman,USA,3,Data Analyst,3,70486
+2593,27,Man,South Korea,5,Program/Project Manager,19,1362
+2594,27,Man,USA,3,Data Analyst,0.5,71294
+2595,62,Man,USA,4,Software Engineer,26,156296
+2596,28,Man,USA,4,Data Scientist,2,79866
+2597,40,Man,USA,1,Data Engineer,5,161485
+2598,63,Man,USA,5,Research Scientist,29,96460
+2599,40,Woman,USA,4,Data Scientist,11,158586
+2600,45,Man,China,4,Data Analyst,5,1089
+2601,66,Man,USA,3,Business Analyst,4,30515
+2602,32,Man,Japan,4,Software Engineer,3,5702
+2603,56,Man,USA,4,Product Manager,5,522746
+2604,29,Man,USA,4,Machine Learning Engineer,7,532090
+2605,30,Man,Japan,5,Research Scientist,5,43528
+2606,32,Man,China,4,Software Engineer,9,12848
+2607,23,Woman,China,2,Machine Learning Engineer,0.5,848
+2608,29,Man,USA,4,Business Analyst,0.5,95481
+2609,50,Man,Japan,5,Other,22,8082
+2610,36,Man,Japan,4,Other,1,66100
+2611,69,Man,USA,5,Research Scientist,26,182606
+2612,28,Man,South Korea,0,Other,0,581
+2613,37,Man,Japan,4,Data Scientist,1,109622
+2614,55,Man,USA,1,Other,0,65180
+2615,29,Man,Japan,4,Developer Relations/Advocacy,3,30632
+2616,31,Man,China,4,Business Analyst,3,47106
+2617,59,Man,USA,2,Data Analyst,14,118583
+2618,37,Man,China,4,Data Scientist,9,1018
+2619,30,Woman,Japan,4,Research Scientist,0.5,57554
+2620,32,Man,USA,4,Software Engineer,9,131650
+2621,42,Man,Japan,4,Data Analyst,10,84047
+2622,33,Man,USA,3,Software Engineer,3,66950
+2623,33,Woman,USA,4,Data Scientist,5,108605
+2624,39,Woman,Japan,4,Data Engineer,5,76506
+2625,43,Man,Japan,2,Developer Relations/Advocacy,5,25829
+2626,65,Man,Japan,3,Software Engineer,19,53557
+2627,25,Man,USA,3,Statistician,3,65439
+2628,51,Man,USA,4,Software Engineer,24,232483
+2629,30,Man,Japan,3,Software Engineer,2,66722
+2630,67,Man,Japan,0,Program/Project Manager,0.5,284
+2631,27,Woman,South Korea,3,Data Analyst,0.5,9360
+2632,43,Man,Japan,0,Product Manager,0,77967
+2633,27,Man,China,4,Data Analyst,4,20424
+2634,50,Man,Japan,5,Research Scientist,2,8683
+2635,32,Man,Japan,4,Data Scientist,0.5,68318
+2636,42,Man,USA,5,Data Scientist,10,181030
+2637,30,Man,Japan,4,Data Engineer,2,6716
+2638,70,Man,USA,4,Data Analyst,20,4223
+2639,18,Man,China,3,Data Analyst,3,908
+2640,70,Man,USA,5,Data Scientist,20,54302
+2641,31,Man,USA,4,Data Analyst,3,62387
+2642,59,Man,Japan,0,Program/Project Manager,5,7069
+2643,38,Man,USA,4,Business Analyst,3,108043
+2644,24,Man,China,4,Machine Learning Engineer,2,68
+2645,29,Man,USA,3,Business Analyst,0,68427
+2646,35,Man,USA,3,Data Analyst,0,187
+2647,34,Man,USA,4,Data Scientist,10,118450
+2648,55,Man,USA,2,Other,0,64470
+2649,40,Man,Japan,2,Other,3,40883
+2650,41,Man,USA,4,Program/Project Manager,11,154780
+2651,42,Man,USA,3,Product Manager,3,387560
+2652,20,Man,USA,3,Other,5,51670
+2653,52,Man,USA,4,Machine Learning Engineer,27,254595
+2654,25,Woman,South Korea,3,Data Analyst,0.5,891
+2655,45,Man,USA,5,Data Scientist,18,416
+2656,28,Man,USA,4,Data Scientist,5,82807
+2657,35,Woman,Japan,5,Data Scientist,6,8206
+2658,41,Man,USA,5,Program/Project Manager,14,283515
+2659,51,Man,USA,4,Product Manager,29,190850
+2660,37,Man,USA,4,Other,3,152534
+2661,25,Man,South Korea,3,Machine Learning Engineer,10,5526
+2662,40,Man,Japan,0,Other,0.5,34986
+2663,54,Woman,USA,3,Data Analyst,0.5,21984
+2664,28,Man,USA,3,Other,0,30555
+2665,41,Man,USA,4,Machine Learning Engineer,10,141144
+2666,34,Woman,USA,4,Software Engineer,5,13828
+2667,58,Man,Japan,3,Software Engineer,23,15574
+2668,51,Man,USA,4,Data Analyst,19,117686
+2669,28,Man,China,4,Software Engineer,4,83175
+2670,55,Man,USA,4,DBA/Database Engineer,25,414
+2671,25,Prefer not to say,Japan,0,Program/Project Manager,0.5,43157
+2672,44,Man,USA,2,Software Engineer,20,193338
+2673,29,Man,USA,4,Data Scientist,7,110457
+2674,30,Man,USA,4,Machine Learning Engineer,11,96384
+2675,48,Man,Japan,5,Machine Learning Engineer,17,92856
+2676,33,Man,USA,4,Software Engineer,8,108642
+2677,60,Man,Japan,5,Research Scientist,6,111836
+2678,31,Man,Japan,4,Software Engineer,5,54698
+2679,45,Man,Japan,4,Other,5,7070
+2680,65,Man,USA,2,Other,0,56569
+2681,22,Man,USA,4,Data Scientist,3,115809
+2682,53,Man,Japan,2,Software Engineer,25,123814
+2683,61,Man,Japan,3,Data Analyst,3,48345
+2684,33,Woman,Japan,3,Other,0.5,2796
+2685,59,Prefer not to say,USA,4,DBA/Database Engineer,29,755
+2686,36,Woman,USA,4,Machine Learning Engineer,9,151445
+2687,24,Man,China,3,Software Engineer,0.5,553
+2688,30,Man,USA,5,Data Scientist,7,137943
+2689,56,Prefer not to say,USA,5,Research Scientist,20,907
+2690,37,Man,Japan,4,Software Engineer,13,3350
+2691,51,Man,USA,4,Program/Project Manager,7,133389
+2692,70,Man,USA,5,Research Scientist,21,14836
+2693,31,Man,South Korea,5,Research Scientist,0.5,375
+2694,57,Man,USA,4,Program/Project Manager,29,161758
+2695,48,Man,USA,4,Data Scientist,24,368608
+2696,46,Man,USA,4,Data Scientist,7,79405
+2697,30,Man,USA,5,Data Scientist,15,866827
+2698,30,Man,Japan,4,Software Engineer,19,648448
+2699,59,Man,Japan,5,Data Scientist,22,134442
+2700,23,Man,USA,3,Software Engineer,3,59918
+2701,30,Man,South Korea,4,Software Engineer,2,6750
+2702,49,Man,USA,3,Other,26,976274
+2703,24,Man,USA,4,Data Scientist,3,1215
+2704,59,Man,Japan,3,Software Engineer,26,68212
+2705,39,Woman,USA,4,Data Analyst,1,117471
+2706,25,Man,USA,4,Business Analyst,1,74041
+2707,37,Man,USA,5,Machine Learning Engineer,18,418889
+2708,22,Man,China,4,Data Scientist,1,1648
+2709,28,Woman,USA,4,Research Scientist,8,103738
+2710,30,Man,China,5,Data Scientist,5,4191
+2711,21,Man,USA,3,Data Scientist,3,148157
+2712,34,Man,China,5,Data Analyst,4,43583
+2713,36,Man,Japan,5,Data Scientist,17,4676
+2714,23,Man,South Korea,2,Data Analyst,0.5,124
+2715,26,Man,Japan,1,Data Analyst,3,3706
+2716,27,Man,USA,3,Data Analyst,3,141218
+2717,47,Man,Japan,3,Business Analyst,0.5,13078
+2718,32,Man,Japan,4,Research Scientist,5,48923
+2719,25,Man,Japan,4,Data Analyst,3,57285
+2720,58,Man,USA,4,Data Scientist,12,124501
+2721,39,Man,USA,4,Program/Project Manager,4,114862
+2722,38,Man,USA,4,Data Scientist,5,183403
+2723,26,Woman,USA,4,DBA/Database Engineer,10,48836
+2724,49,Man,USA,4,Program/Project Manager,25,103688
+2725,27,Man,Japan,3,Data Scientist,1,52264
+2726,52,Woman,USA,4,Other,3,69371
+2727,26,Man,Japan,3,Software Engineer,5,661
+2728,23,Man,USA,3,Program/Project Manager,0.5,66352
+2729,22,Man,China,4,Machine Learning Engineer,0.5,651
+2730,70,Man,USA,2,Other,2,78997
+2731,42,Man,USA,4,Data Scientist,1,105188
+2732,37,Man,USA,4,Software Engineer,10,115809
+2733,26,Man,China,3,Data Analyst,5,16759
+2734,39,Man,Japan,4,Software Engineer,22,5565
+2735,32,Man,USA,0,Business Analyst,0,42972
+2736,40,Man,USA,3,Software Engineer,5,121830
+2737,54,Woman,USA,5,Data Scientist,21,113212
+2738,26,Woman,South Korea,0,Data Analyst,2,4629
+2739,24,Man,USA,3,Software Engineer,3,78849
+2740,25,Man,South Korea,4,Machine Learning Engineer,11,55437
+2741,43,Man,USA,4,Data Scientist,12,135597
+2742,22,Man,China,4,Data Scientist,4,163
+2743,65,Man,USA,3,Business Analyst,1,0
+2744,25,Man,USA,5,Machine Learning Engineer,10,288536
+2745,22,Woman,China,4,Data Engineer,0.5,50930
+2746,60,Man,USA,1,Other,0.5,29942
+2747,26,Woman,USA,5,Data Analyst,9,121208
+2748,38,Man,USA,4,Data Scientist,14,118077
+2749,38,Man,USA,5,Data Scientist,1,238
+2750,30,Man,Japan,3,Data Analyst,3,7645
+2751,50,Prefer not to say,USA,5,Data Scientist,22,858
+2752,28,Woman,USA,4,Data Scientist,5,13246
+2753,45,Woman,USA,4,Data Scientist,21,128384
+2754,31,Man,USA,3,Data Scientist,14,204640
+2755,19,Woman,China,4,Data Analyst,1,606
+2756,25,Woman,USA,4,Data Scientist,0.5,24257
+2757,54,Man,Japan,3,Data Analyst,1,8437
+2758,23,Man,USA,3,Software Engineer,3,85227
+2759,29,Prefer not to say,USA,4,Data Scientist,6,107811
+2760,50,Woman,USA,5,Research Scientist,2,168091
+2761,48,Man,USA,3,Other,22,118777
+2762,40,Man,USA,5,Software Engineer,26,176308
+2763,39,Man,Japan,4,Machine Learning Engineer,10,85720
+2764,50,Woman,USA,3,Other,2,146776
+2765,27,Woman,USA,4,Other,0,58254
+2766,35,Woman,USA,4,Data Analyst,5,180636
+2767,47,Man,USA,3,Business Analyst,1,85811
+2768,25,Man,China,4,Data Analyst,5,42130
+2769,29,Man,USA,3,Other,3,42177
+2770,62,Man,USA,5,Software Engineer,22,58
+2771,26,Woman,USA,4,Data Analyst,3,21736
+2772,27,Man,Japan,4,Machine Learning Engineer,5,47754
+2773,31,Man,USA,5,Data Scientist,7,156940
+2774,22,Woman,USA,4,Product Manager,1,74502
+2775,23,Woman,South Korea,2,Data Engineer,2,959
+2776,29,Man,South Korea,4,Machine Learning Engineer,5,2485
+2777,27,Man,Japan,4,Machine Learning Engineer,17,86314
+2778,23,Man,China,3,Data Analyst,2,2204
+2779,56,Woman,USA,4,Data Analyst,26,100658
+2780,26,Man,USA,3,Data Engineer,9,74259
+2781,39,Man,USA,5,Data Scientist,27,230624
+2782,26,Woman,South Korea,3,Software Engineer,4,49319
+2783,29,Man,USA,4,Data Engineer,5,122494
+2784,39,Man,USA,4,Data Scientist,19,111331
+2785,37,Man,USA,4,Data Scientist,18,163961
+2786,37,Man,USA,3,Other,0.5,121199
+2787,33,Man,South Korea,5,Data Analyst,0.5,1883
+2788,57,Man,USA,5,Software Engineer,23,226603
+2789,55,Man,South Korea,2,Data Analyst,0.5,49802
+2790,29,Man,Japan,3,Software Engineer,3,54906
+2791,70,Man,USA,5,Other,25,899
+2792,43,Man,USA,4,Machine Learning Engineer,10,197446
+2793,32,Man,Japan,4,Software Engineer,19,92724
+2794,44,Woman,Japan,3,Data Analyst,15,849
+2795,48,Man,Japan,4,Data Scientist,3,6431
+2796,35,Woman,USA,4,Other,1,23431
+2797,29,Man,Japan,2,Software Engineer,0.5,68
+2798,27,Man,China,4,Data Scientist,3,39923
+2799,31,Man,USA,4,Other,0.5,28791
+2800,34,Man,South Korea,3,Data Scientist,3,49626
+2801,38,Man,Japan,4,Data Engineer,0,983
+2802,27,Man,Japan,1,Program/Project Manager,1,2083
+2803,30,Man,Japan,5,Research Scientist,3,5700
+2804,35,Man,USA,5,Research Scientist,20,56326
+2805,37,Man,Japan,0,Machine Learning Engineer,1,980
+2806,40,Man,Japan,3,Software Engineer,7,7756
+2807,24,Man,USA,4,Data Scientist,4,43107
+2808,24,Woman,China,3,Data Engineer,2,12320
+2809,40,Man,USA,5,Data Scientist,29,485264
+2810,68,Man,USA,3,Machine Learning Engineer,22,109426
+2811,58,Man,USA,4,Program/Project Manager,26,283
+2812,44,Man,USA,3,Software Engineer,19,111269
+2813,30,Man,USA,4,Data Scientist,16,85546
+2814,47,Man,USA,3,Data Engineer,9,98161
+2815,33,Woman,USA,2,Other,0,38864
+2816,23,Man,USA,4,Data Scientist,10,90483
+2817,26,Man,USA,4,Data Scientist,4,39933
+2818,31,Man,Japan,4,Data Scientist,5,114952
+2819,58,Man,Japan,2,Data Analyst,0.5,685
+2820,24,Man,USA,4,Data Scientist,5,78811
+2821,63,Man,USA,5,Statistician,24,104653
+2822,31,Man,USA,4,Data Analyst,3,817
+2823,58,Prefer not to say,USA,4,Other,27,1018185
+2824,20,Man,South Korea,3,Machine Learning Engineer,1,1688
+2825,26,Man,Japan,4,Data Scientist,3,6329
+2826,22,Woman,USA,4,Data Analyst,5,112848
+2827,31,Man,USA,5,Other,10,100783
+2828,35,Man,USA,5,Data Engineer,16,100598
+2829,25,Man,USA,4,Data Scientist,3,83247
+2830,50,Man,USA,4,Other,2,125720
+2831,35,Man,USA,4,Data Scientist,23,86129
+2832,39,Man,China,4,Developer Relations/Advocacy,11,1669
+2833,23,Man,USA,3,Data Analyst,4,1221
+2834,53,Man,USA,4,Program/Project Manager,0,187799
+2835,58,Man,China,5,Research Scientist,28,9736
+2836,42,Man,USA,4,Other,1,194331
+2837,24,Man,USA,4,Data Analyst,2,9219
+2838,52,Man,USA,4,Data Scientist,13,161545
+2839,30,Man,Japan,4,Other,5,35437
+2840,30,Woman,China,5,Research Scientist,9,195
+2841,38,Man,USA,4,Data Scientist,4,185817
+2842,56,Man,USA,4,Program/Project Manager,21,10791
+2843,26,Man,South Korea,3,Data Scientist,5,32419
+2844,30,Man,USA,3,Software Engineer,10,108300
+2845,29,Man,USA,3,Data Engineer,6,75608
+2846,40,Man,South Korea,2,Data Scientist,3,68043
+2847,32,Man,USA,4,Other,3,154428
+2848,28,Prefer not to say,USA,3,Data Scientist,0.5,27105
+2849,26,Man,Japan,4,Software Engineer,3,46854
+2850,50,Woman,USA,4,Other,3,198920
+2851,39,Man,Japan,3,Data Scientist,18,84262
+2852,55,Man,USA,4,DBA/Database Engineer,0.5,242767
+2853,26,Woman,Japan,4,Research Scientist,0,2350
+2854,22,Man,USA,4,Machine Learning Engineer,7,378
+2855,42,Man,USA,4,Data Scientist,6,58989
+2856,32,Woman,USA,4,Data Scientist,14,288186
+2857,45,Man,USA,4,Program/Project Manager,0.5,129655
+2858,37,Woman,USA,4,Other,1,13661
+2859,45,Man,USA,5,Data Scientist,26,159119
+2860,25,Man,Japan,5,Software Engineer,8,84
+2861,30,Man,Japan,4,Research Scientist,5,79521
+2862,33,Man,USA,3,Business Analyst,3,67046
+2863,34,Man,USA,2,Other,0,30083
+2864,23,Woman,Japan,3,Program/Project Manager,0.5,46801
+2865,26,Woman,USA,3,Data Scientist,10,87173
+2866,31,Man,USA,5,Data Scientist,10,1095026
+2867,54,Woman,USA,4,Software Engineer,27,117551
+2868,39,Prefer not to say,China,4,Business Analyst,0,935
+2869,57,Man,USA,5,Research Scientist,24,145305
+2870,30,Man,USA,3,Other,16,1026485
+2871,36,Man,China,4,Business Analyst,20,6689
+2872,41,Man,Japan,2,Other,2,4830
+2873,50,Man,Japan,4,Software Engineer,21,53833
+2874,33,Woman,USA,4,Data Analyst,9,72308
+2875,38,Man,Japan,3,Software Engineer,13,124428
+2876,26,Man,Japan,4,Research Scientist,0.5,52565
+2877,33,Woman,USA,4,Other,2,57792
+2878,59,Man,USA,5,Statistician,29,88111
+2879,27,Woman,USA,3,Business Analyst,4,69898
+2880,26,Man,Japan,3,Business Analyst,0.5,30113
+2881,29,Man,China,3,Data Engineer,4,44999
+2882,34,Woman,USA,3,Other,0.5,47934
+2883,41,Man,Japan,2,Product Manager,5,14005
+2884,52,Woman,USA,4,Other,10,163215
+2885,38,Man,Japan,1,Data Engineer,0.5,975
+2886,25,Man,China,4,Software Engineer,10,812
+2887,70,Man,USA,3,Other,27,153063
+2888,34,Man,Japan,4,Software Engineer,7,7366
+2889,49,Man,Japan,4,Software Engineer,16,62481
+2890,37,Man,USA,5,Data Analyst,10,103572
+2891,60,Man,USA,5,Business Analyst,0,109080
+2892,26,Man,USA,4,Data Scientist,3,26891
+2893,34,Man,Japan,3,DBA/Database Engineer,5,7225
+2894,25,Woman,USA,2,Data Engineer,0.5,49160
+2895,29,Man,China,4,Machine Learning Engineer,10,100080
+2896,29,Woman,China,3,Software Engineer,3,23855
+2897,33,Man,USA,3,Other,6,450588
+2898,28,Man,China,4,Business Analyst,0.5,11595
+2899,47,Man,USA,5,Other,16,322441
+2900,48,Man,USA,4,Other,1,193734
+2901,40,Man,USA,4,Machine Learning Engineer,23,625
+2902,57,Man,Japan,5,Research Scientist,24,91836
+2903,24,Man,USA,4,Other,1,987
+2904,70,Man,USA,2,Data Analyst,22,54288
+2905,35,Man,USA,4,DBA/Database Engineer,20,108048
+2906,27,Man,South Korea,4,Data Scientist,2,727
+2907,31,Man,Japan,4,Other,0.5,153600
+2908,40,Man,USA,5,Research Scientist,24,219954
+2909,69,Man,USA,5,Research Scientist,28,100387
+2910,34,Man,South Korea,1,Software Engineer,2,1695
+2911,23,Man,China,4,Data Analyst,0.5,4550
+2912,60,Man,Japan,4,Software Engineer,26,1255
+2913,24,Man,South Korea,2,Data Scientist,0.5,9600
+2914,62,Man,USA,5,Other,28,102746
+2915,29,Man,Japan,5,Other,6,1834
+2916,40,Man,USA,3,Other,5,151240
+2917,50,Man,Japan,5,Research Scientist,29,93270
+2918,31,Man,USA,4,Machine Learning Engineer,5,132197
+2919,39,Man,South Korea,3,Data Analyst,7,98734
+2920,26,Man,USA,4,Other,0.5,66477
+2921,54,Man,USA,3,Business Analyst,3,120655
+2922,37,Man,USA,3,Software Engineer,0.5,47894
+2923,30,Woman,USA,3,Other,0,54158
+2924,30,Woman,USA,4,Data Scientist,9,159199
+2925,45,Man,USA,4,Software Engineer,28,140415
+2926,27,Man,Japan,4,Program/Project Manager,16,60091
+2927,25,Man,South Korea,4,Machine Learning Engineer,1,1521
+2928,36,Man,USA,4,Data Scientist,2,122975
+2929,69,Man,USA,5,Data Scientist,10,192398
+2930,22,Man,China,4,Machine Learning Engineer,0.5,4802
+2931,68,Prefer not to say,USA,0,Data Analyst,1,114
+2932,58,Man,USA,5,Other,0,192541
+2933,25,Man,China,4,Machine Learning Engineer,3,132
+2934,25,Woman,South Korea,3,Data Engineer,0.5,22381
+2935,44,Man,USA,4,Software Engineer,6,86293
+2936,29,Woman,USA,4,Other,2,485
+2937,39,Man,USA,3,Other,0,71802
+2938,24,Man,USA,3,Other,0.5,70476
+2939,46,Man,USA,4,Other,3,81386
+2940,42,Man,Japan,5,Data Scientist,6,1273
+2941,29,Man,USA,4,Business Analyst,1,64146
+2942,18,Man,USA,4,Data Engineer,3,2405
+2943,36,Woman,USA,5,Data Scientist,4,180418
+2944,27,Man,Japan,4,Research Scientist,2,4120
+2945,47,Man,USA,3,Software Engineer,13,139490
+2946,48,Man,Japan,2,Product Manager,0.5,7982
+2947,25,Nonbinary,Japan,4,Data Scientist,10,24405
+2948,49,Man,USA,3,Program/Project Manager,9,70957
+2949,59,Man,Japan,4,Machine Learning Engineer,26,110001
+2950,33,Woman,USA,4,Research Scientist,10,219101
+2951,36,Man,China,5,Data Scientist,8,2976
+2952,49,Man,USA,3,Data Scientist,9,94054
+2953,32,Man,USA,4,Data Scientist,1,65396
+2954,34,Man,Japan,4,Statistician,2,17181
+2955,30,Woman,USA,5,Statistician,17,106226
+2956,23,Man,Japan,5,Research Scientist,0.5,1322
+2957,35,Man,USA,2,Software Engineer,7,100971
+2958,25,Man,USA,4,Data Scientist,4,90997
+2959,35,Woman,USA,4,Data Scientist,3,188667
+2960,32,Man,Japan,3,Other,1,21212
+2961,29,Man,Japan,4,Program/Project Manager,1,480
+2962,53,Man,USA,5,Research Scientist,0,127071
+2963,40,Man,USA,4,Other,0.5,102757
+2964,30,Woman,South Korea,3,Research Scientist,3,7082
+2965,33,Nonbinary,USA,5,Data Scientist,6,92858
+2966,38,Woman,USA,5,Data Scientist,4,145236
+2967,46,Woman,USA,2,Other,0.5,62525
+2968,37,Nonbinary,USA,5,Software Engineer,26,91043
+2969,38,Man,USA,4,Research Scientist,1,92142
+2970,29,Woman,Japan,4,Software Engineer,19,4902
+2971,39,Man,Japan,4,Business Analyst,0.5,54290
+2972,54,Woman,USA,5,Machine Learning Engineer,17,240006
+2973,22,Man,Japan,3,Data Scientist,0.5,29472
+2974,30,Woman,USA,3,Other,0,850
+2975,64,Woman,USA,3,Data Engineer,26,92314
+2976,31,Man,USA,3,Other,3,52831
+2977,57,Man,USA,5,Statistician,26,204544
+2978,24,Woman,USA,4,Software Engineer,8,964
+2979,32,Man,USA,4,Software Engineer,10,242594
+2980,33,Man,China,4,Machine Learning Engineer,3,62191
+2981,29,Woman,USA,3,Data Scientist,4,102533
+2982,46,Man,Japan,4,Software Engineer,20,55171
+2983,41,Man,Japan,4,Program/Project Manager,0.5,59078
+2984,48,Prefer not to say,USA,4,Other,3,96687
+2985,33,Man,USA,4,Data Analyst,13,137716
+2986,54,Man,Japan,4,Data Engineer,2,4917
+2987,48,Prefer not to say,USA,4,Business Analyst,20,98029
+2988,58,Man,USA,4,Business Analyst,5,74450
+2989,68,Man,USA,4,Other,27,185626
+2990,30,Man,Japan,4,Machine Learning Engineer,3,6493
+2991,22,Woman,South Korea,3,Machine Learning Engineer,3,863
+2992,48,Man,South Korea,3,Machine Learning Engineer,5,21034
+2993,26,Man,Japan,4,Other,3,25789
+2994,50,Woman,USA,4,Data Scientist,10,194101
+2995,27,Man,South Korea,1,Data Analyst,0.5,173
+2996,57,Man,Japan,4,Program/Project Manager,3,117283
+2997,36,Man,USA,5,Software Engineer,5,131168
+2998,28,Man,South Korea,4,Data Scientist,5,35720
+2999,28,Man,China,4,Data Engineer,1,879
+3000,53,Man,South Korea,4,Business Analyst,4,17747
+3001,33,Man,China,4,Data Engineer,6,6048
+3002,44,Woman,USA,4,Data Analyst,17,99542
+3003,32,Man,USA,5,Data Scientist,1,120414
+3004,41,Man,Japan,4,DBA/Database Engineer,5,6523
+3005,28,Man,Japan,4,Other,5,44215
+3006,32,Woman,USA,5,Data Scientist,3,3937
+3007,23,Man,China,0,Machine Learning Engineer,1,13793
+3008,69,Man,USA,5,Data Scientist,28,105689
+3009,34,Prefer not to say,USA,0,Program/Project Manager,0,655
+3010,30,Man,Japan,3,Data Analyst,6,13187
+3011,42,Woman,USA,2,Other,27,1015697
+3012,47,Man,USA,4,Software Engineer,20,431364
+3013,36,Man,China,1,Developer Relations/Advocacy,13,96394
+3014,40,Man,USA,4,Other,0.5,64845
+3015,24,Man,China,4,Machine Learning Engineer,3,57091
+3016,54,Woman,USA,3,Software Engineer,27,115191
+3017,68,Man,Japan,2,Other,23,19880
+3018,40,Man,USA,3,Data Analyst,14,161351
+3019,19,Man,USA,3,Data Analyst,3,336
+3020,25,Man,Japan,2,Data Scientist,4,45524
+3021,54,Man,South Korea,2,Machine Learning Engineer,7,366
+3022,49,Man,USA,3,Data Scientist,5,111865
+3023,32,Woman,USA,3,Business Analyst,4,78928
+3024,33,Man,China,3,Software Engineer,10,284
+3025,39,Woman,USA,4,Software Engineer,16,150548
+3026,18,Prefer not to say,China,2,Data Engineer,0.5,621
+3027,43,Man,USA,4,Product Manager,20,998
+3028,50,Man,South Korea,3,Software Engineer,21,68621
+3029,61,Woman,USA,5,Other,0.5,51825
+3030,32,Man,USA,3,Other,0.5,88987
+3031,28,Man,USA,4,Data Scientist,8,196350
+3032,39,Man,Japan,4,Other,0.5,84026
+3033,18,Woman,China,4,Data Scientist,1,8032
+3034,38,Woman,USA,4,Program/Project Manager,3,899
+3035,39,Man,USA,4,Machine Learning Engineer,14,245546
+3036,25,Man,Japan,4,Other,0.5,35064
+3037,22,Man,China,4,Data Scientist,3,162
+3038,58,Man,USA,4,Other,20,88960
+3039,40,Man,USA,3,Other,27,117552
+3040,24,Man,USA,3,Data Analyst,2,41853
+3041,39,Man,USA,4,Software Engineer,20,159990
+3042,39,Man,USA,3,Other,5,89079
+3043,25,Man,China,4,Software Engineer,4,12191
+3044,24,Man,China,4,Machine Learning Engineer,0.5,751
+3045,65,Man,USA,4,Data Scientist,3,79549
+3046,53,Man,USA,3,Software Engineer,26,155489
+3047,27,Man,USA,3,Data Analyst,5,39068
+3048,29,Woman,China,4,Software Engineer,4,2995
+3049,55,Man,USA,5,Other,27,245541
+3050,41,Man,USA,4,Other,20,74763
+3051,28,Woman,USA,4,Research Scientist,8,256969
+3052,44,Man,USA,5,Software Engineer,16,108317
+3053,44,Man,USA,4,Other,11,205301
+3054,21,Man,China,3,Data Analyst,1,18610
+3055,49,Man,Japan,4,Business Analyst,2,135850
+3056,27,Man,USA,4,Data Scientist,5,115543
+3057,27,Man,Japan,4,Software Engineer,1,75710
+3058,40,Woman,USA,4,Research Scientist,3,119088
+3059,45,Man,USA,3,Software Engineer,24,130138
+3060,37,Man,USA,5,Data Analyst,20,63061
+3061,60,Man,USA,3,Other,25,77890
+3062,32,Woman,USA,5,Other,0,56947
+3063,39,Woman,USA,4,Other,0.5,63861
+3064,24,Man,China,4,Data Scientist,3,2961
+3065,41,Woman,USA,4,Other,0.5,75998
+3066,30,Man,China,4,Software Engineer,5,30362
+3067,31,Man,China,4,Data Scientist,6,82977
+3068,42,Man,Japan,4,Data Scientist,19,5707
+3069,27,Man,USA,4,Other,7,73903
+3070,32,Man,USA,4,Data Analyst,2,64538
+3071,39,Prefer not to say,USA,4,Data Scientist,17,148117
+3072,25,Man,South Korea,4,Data Scientist,0.5,48700
+3073,61,Man,USA,3,Other,26,22508
+3074,46,Man,Japan,0,Other,2,67627
+3075,45,Prefer not to say,South Korea,5,Research Scientist,9,102696
+3076,44,Man,Japan,4,Program/Project Manager,3,182248
+3077,66,Man,USA,3,Data Engineer,24,113744
+3078,39,Man,USA,4,Research Scientist,0.5,101096
+3079,36,Man,USA,2,Other,0.5,45762
+3080,59,Man,USA,5,Data Scientist,29,199662
+3081,48,Man,USA,4,Product Manager,19,224158
+3082,28,Man,USA,5,Data Scientist,1,23551
+3083,34,Man,Japan,3,Other,0.5,839
+3084,38,Man,Japan,5,Data Engineer,2,2988
+3085,27,Man,USA,4,Research Scientist,5,25015
+3086,46,Man,USA,4,DBA/Database Engineer,9,92652
+3087,63,Man,USA,3,Program/Project Manager,26,498628
+3088,38,Man,South Korea,3,Software Engineer,5,83020
