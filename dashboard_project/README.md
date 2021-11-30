@@ -42,7 +42,7 @@
     - 중복된 인덱스를 제거하기 위해 인덱스 리셋
 - **HTML 작성**
   - dash 의 dash_html_components(as HTML) 을 이용하여 기본 틀을 구성
-- **데이터 시각화 및 interactive component 구성 **
+- **데이터 시각화 및 interactive component 구성**
   - dash의 dash_core_components(as dcc) 을 이용하여 plotly 시각화 그래프 추가 
   - dcc 를 이용하여 메뉴 생성
 - **Reactive Programming**
