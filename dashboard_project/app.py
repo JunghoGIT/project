@@ -1,10 +1,9 @@
+import os
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
 import pandas as pd
 import plotly.graph_objects as go
-import numpy as np
-from dash.dependencies import Output, Input
 
 # 데이터 불러오기
 data = pd.read_csv('data\Bitcoin.csv')
@@ -24,8 +23,10 @@ data=data.sort_values(by=['coinname','날짜'])
 data=data.reset_index(drop=True)
 
 # dash 클래스로 app 인스턴스 생성
-app = dash.Dash(__name__)
-
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+app.title = "JH's first dashboard"
+server = app.server
 
 
 
@@ -107,11 +108,11 @@ app.layout = html.Div(
 )
 
 @app.callback(
-    [Output("candlestick-chart", "figure"), Output("chart", "figure")],
+    [dash.dependencies.Output("candlestick-chart", "figure"), dash.dependencies.Output("chart", "figure")],
     [
-        Input("coin-name", "value"),
-        Input("date-range", "start_date"),
-        Input("date-range", "end_date"),
+        dash.dependencies.Input("coin-name", "value"),
+        dash.dependencies.Input("date-range", "start_date"),
+        dash.dependencies.Input("date-range", "end_date"),
     ],
 )
 def update_charts(coin_name, start_date, end_date):

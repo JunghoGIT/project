@@ -66,11 +66,19 @@
 - **1차 수정**
 
   - HTML 구성 변경
-
   - 기본적인 css 설정
   - reactive programming 구현
+  
+- **2차 수정**
 
+  - requirements.txt 추가
+  - pythonanywhere 을 통해 배포
+  - 링크 : http://yoonjungho.pythonanywhere.com/
+    - heroku 통해 배포하려 했으나 원인 불명의 에러가 지속되어 변경
 
+  
+
+ 
 
 
 
