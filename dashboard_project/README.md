@@ -18,7 +18,7 @@
 
 
 
-- 2020/10/29 ~ 2021/11/29 기간의 BTC, ETC 캔들차트 구현
+- 2020/10/29 ~ 2021/11/29 기간의 BTC, ETH 캔들차트 구현
 
 
 
@@ -74,7 +74,7 @@
   - requirements.txt 추가
   - pythonanywhere 을 통해 배포
   - 링크 : http://yoonjungho.pythonanywhere.com/
-    - heroku 통해 배포하려 했으나 원인 불명의 에러가 지속되어 변경
+    - heroku 통해 배포하려 했으나  [H10] 에러가 지속되어 변경
 
   
 
